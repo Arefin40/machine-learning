@@ -1,0 +1,1274 @@
+Company,TypeName,Inches,Ram,OpSys,Weight,Res_Width,Res_Height,Touchscreen,PanelType,SSD(GB),HDD(GB),ClockSpeed(GHz),CPU,GPU,Price
+Apple,Ultrabook,13.3,8,macOS,1.37,2560,1600,False,IPS Panel Retina Display,128,0,2.3,Intel Core i5,Intel Iris,1339.69
+Apple,Ultrabook,13.3,8,macOS,1.34,1440,900,False,Unknown,128,0,1.8,Intel Core i5,Intel HD Graphics,898.94
+HP,Notebook,15.6,8,No OS,1.86,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,575.0
+Apple,Ultrabook,15.4,16,macOS,1.83,2880,1800,False,IPS Panel Retina Display,512,0,2.7,Intel Core i7,AMD,2537.45
+Apple,Ultrabook,13.3,8,macOS,1.37,2560,1600,False,IPS Panel Retina Display,256,0,3.1,Intel Core i5,Intel Iris,1803.6
+Acer,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,3.0,AMD,AMD,400.0
+Apple,Ultrabook,15.4,16,Mac OS X,2.04,2880,1800,False,IPS Panel Retina Display,256,0,2.2,Intel Core i7,Intel Iris,2139.97
+Apple,Ultrabook,13.3,8,macOS,1.34,1440,900,False,Unknown,256,0,1.8,Intel Core i5,Intel HD Graphics,1158.7
+Asus,Ultrabook,14.0,16,Windows 10,1.3,1920,1080,False,Unknown,512,0,1.8,Intel Core i7,Nvidia GeForce,1495.0
+Acer,Ultrabook,14.0,8,Windows 10,1.6,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,770.0
+HP,Notebook,15.6,4,No OS,1.86,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,393.9
+HP,Notebook,15.6,4,No OS,1.86,1920,1080,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,344.99
+Apple,Ultrabook,15.4,16,macOS,1.83,2880,1800,False,IPS Panel Retina Display,256,0,2.8,Intel Core i7,AMD,2439.97
+Dell,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,256,0,2.0,Intel Core i3,AMD,498.9
+Apple,Ultrabook,12.0,8,macOS,0.92,2304,1440,False,IPS Panel Retina Display,256,0,1.2,Intel Other,Intel HD Graphics,1262.4
+Apple,Ultrabook,13.3,8,macOS,1.37,2560,1600,False,IPS Panel Retina Display,256,0,2.3,Intel Core i5,Intel Iris,1518.55
+Dell,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,AMD,745.0
+Apple,Ultrabook,15.4,16,macOS,1.83,2880,1800,False,IPS Panel Retina Display,512,0,2.9,Intel Core i7,AMD,2858.0
+Lenovo,Notebook,15.6,8,No OS,2.2,1920,1080,False,Unknown,0,1000,2.4,Intel Core i3,Nvidia GeForce,499.0
+Dell,Ultrabook,13.3,8,Windows 10,1.22,1920,1080,True,IPS Panel,128,0,1.6,Intel Core i5,Intel HD Graphics,979.0
+Asus,Netbook,11.6,2,Windows 10,0.98,1366,768,False,Unknown,32,0,1.44,Intel Other,Intel HD Graphics,191.9
+Lenovo,Gaming,15.6,8,Windows 10,2.5,1920,1080,False,IPS Panel,128,1000,2.5,Intel Core i5,Nvidia GTX,999.0
+HP,Notebook,15.6,4,No OS,1.86,1366,768,False,Unknown,0,500,1.5,AMD,AMD,258.0
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,1920,1080,True,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,819.0
+HP,Ultrabook,15.6,8,Windows 10,1.91,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,Intel HD Graphics,659.0
+Dell,Notebook,15.6,4,Windows 10,2.3,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,418.64
+Apple,Ultrabook,13.3,8,Mac OS X,1.35,1440,900,False,Unknown,128,0,1.6,Intel Core i5,Intel HD Graphics,1099.0
+Dell,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,AMD,800.0
+Dell,Ultrabook,15.6,8,Windows 10,1.88,1920,1080,False,Unknown,256,0,1.9,Intel Core i7,Intel HD Graphics,1298.0
+HP,Notebook,17.3,8,Windows 10,2.5,1920,1080,False,Unknown,0,1000,1.6,Intel Core i5,Nvidia GeForce,896.0
+Chuwi,Notebook,15.6,4,Windows 10,1.89,1920,1080,False,Unknown,64,0,1.44,Intel Other,Intel HD Graphics,244.99
+Asus,Notebook,14.0,2,Windows 10,1.65,1366,768,False,Unknown,32,0,1.5,AMD,AMD,199.0
+HP,Notebook,17.3,4,Windows 10,2.71,1920,1080,False,Unknown,0,500,2.5,AMD,AMD,439.0
+Dell,Ultrabook,13.3,16,Windows 10,1.2,3200,1800,True,Unknown,512,0,1.8,Intel Core i7,Intel HD Graphics,1869.0
+Apple,Ultrabook,13.3,8,Mac OS X,1.35,1440,900,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,998.0
+Lenovo,Notebook,14.0,4,Windows 10,1.44,1366,768,False,Unknown,64,0,1.1,Intel Other,Intel HD Graphics,249.0
+Acer,Notebook,15.6,4,Linux,2.1,1366,768,False,Unknown,0,1000,2.7,Intel Core i3,Intel HD Graphics,367.0
+Dell,Notebook,17.3,8,Windows 10,2.8,1920,1080,False,IPS Panel,128,1000,1.6,Intel Core i5,AMD,979.0
+HP,Notebook,15.6,4,Windows 10,1.86,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,488.69
+HP,Notebook,15.6,8,Windows 10,2.1,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Nvidia GeForce,879.0
+Asus,Notebook,15.6,4,Linux,2.0,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,389.0
+Dell,Gaming,15.6,16,Windows 10,2.65,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1499.0
+Asus,Notebook,15.6,8,Linux,2.3,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GeForce,522.99
+Acer,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,682.0
+Dell,2 in 1 Convertible,17.3,12,Windows 10,2.77,1920,1080,True,Unknown,0,1000,1.6,Intel Core i5,Nvidia GeForce,999.0
+Apple,Ultrabook,13.3,8,macOS,1.37,2560,1600,False,IPS Panel Retina Display,256,0,2.0,Intel Core i5,Intel Iris,1419.0
+Lenovo,Notebook,15.6,4,No OS,2.2,1366,768,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,369.0
+Asus,Gaming,17.3,8,Windows 10,3.2,1920,1080,False,Unknown,256,1000,3.0,AMD,AMD,1299.0
+Dell,Notebook,15.6,4,Windows 10,2.3,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,AMD,639.0
+Asus,Notebook,17.3,4,Windows 10,2.8,1366,768,False,Unknown,0,1000,1.1,Intel Other,Nvidia GeForce,466.0
+Lenovo,2 in 1 Convertible,10.1,4,Android,0.69,1920,1200,True,IPS Panel,64,0,1.44,Intel Other,Intel HD Graphics,319.0
+Acer,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,IPS Panel,256,0,1.8,Intel Core i7,Nvidia GeForce,841.0
+HP,Notebook,15.6,4,Windows 10,1.86,1920,1080,False,Unknown,256,0,2.5,AMD,AMD,398.49
+HP,Notebook,13.3,8,Windows 10,1.49,1920,1080,False,Unknown,512,0,1.8,Intel Core i7,Intel HD Graphics,1103.0
+Acer,Notebook,15.6,4,Windows 10,2.4,1366,768,False,Unknown,0,1000,2.4,Intel Core i3,Intel HD Graphics,384.0
+Dell,Notebook,15.6,8,Windows 10,2.13,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,AMD,767.8
+HP,Notebook,15.6,4,Windows 10,1.91,1920,1080,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,439.0
+Asus,Notebook,15.6,4,Windows 10,2.0,1366,768,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,586.19
+MSI,Gaming,17.3,16,Windows 10,2.43,1920,1080,False,Unknown,256,2000,2.8,Intel Core i7,Nvidia GTX,2449.0
+Asus,Notebook,15.6,4,Linux,2.0,1920,1080,False,Unknown,256,0,2.0,Intel Core i3,Intel HD Graphics,415.0
+Dell,Notebook,17.3,16,Windows 10,2.8,1920,1080,False,Unknown,256,2000,1.8,Intel Core i7,AMD,1299.0
+Dell,Ultrabook,14.0,8,Windows 10,1.7,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,879.0
+Lenovo,Notebook,14.0,8,No OS,1.7,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i3,Intel HD Graphics,599.0
+Asus,Notebook,14.0,8,Windows 10,1.4,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,941.0
+HP,Notebook,15.6,8,Windows 10,1.86,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,690.0
+Asus,Ultrabook,15.6,16,Windows 10,1.8,1920,1080,False,Unknown,512,0,2.8,Intel Core i7,Nvidia GTX,1983.0
+HP,Notebook,15.6,4,Windows 10,1.86,1366,768,False,Unknown,0,500,2.0,Intel Core i3,AMD,438.69
+HP,Notebook,14.0,4,Windows 10,1.44,1366,768,False,Unknown,32,0,1.6,Intel Other,Intel HD Graphics,229.0
+Lenovo,Notebook,15.6,4,Windows 10,1.9,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,549.0
+Asus,Gaming,17.3,12,Linux,3.0,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,949.0
+Microsoft,Ultrabook,13.5,4,Windows 10 S,1.252,2256,1504,True,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,1089.0
+Dell,Ultrabook,13.3,8,Windows 10,1.4,1920,1080,False,IPS Panel,256,0,1.8,Intel Core i7,AMD,955.0
+Dell,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,AMD,870.0
+MSI,Gaming,17.3,8,Windows 10,2.7,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GTX,1095.0
+Acer,Notebook,14.0,8,Windows 10,2.1,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,389.0
+Asus,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,949.0
+Lenovo,Notebook,15.6,8,No OS,2.2,1920,1080,False,Unknown,0,2000,2.5,Intel Core i5,Intel HD Graphics,519.0
+Dell,Notebook,15.6,8,Windows 10,2.02,1920,1080,False,Unknown,128,1000,1.8,Intel Core i7,Intel HD Graphics,855.0
+Acer,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,0,1000,2.7,Intel Core i3,Nvidia GeForce,530.0
+HP,Notebook,17.3,8,Windows 10,2.5,1920,1080,False,Unknown,128,1000,1.6,Intel Core i5,Nvidia GeForce,977.0
+Dell,Ultrabook,15.6,8,Windows 10,1.88,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,1096.16
+Apple,Ultrabook,12.0,8,macOS,0.92,2304,1440,False,IPS Panel Retina Display,512,0,1.3,Intel Core i5,Intel HD Graphics,1510.0
+HP,Notebook,14.0,8,Windows 10,1.63,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,860.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,128,0,2.5,AMD,AMD,399.0
+Acer,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,1000,3.0,AMD,AMD,395.0
+Dell,Gaming,15.6,16,Windows 10,2.65,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1349.0
+HP,Ultrabook,15.6,8,Windows 10,1.83,1920,1080,False,IPS Panel,256,0,1.8,Intel Core i7,Nvidia GTX,699.0
+HP,Notebook,15.6,8,Windows 10,1.96,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,598.99
+Asus,Gaming,15.6,16,Windows 10,2.2,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1449.0
+Dell,Ultrabook,13.3,8,Windows 10,1.21,1920,1080,False,IPS Panel,256,0,1.8,Intel Core i7,Intel HD Graphics,1649.0
+Asus,Gaming,15.6,8,Windows 10,2.45,1920,1080,False,Unknown,0,1000,3.0,AMD,AMD,699.0
+Acer,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,0,1000,1.8,Intel Core i7,Nvidia GeForce,689.0
+HP,Notebook,13.3,16,Windows 10,1.49,1920,1080,False,Unknown,512,0,1.8,Intel Core i7,Intel HD Graphics,1197.0
+Dell,Gaming,15.6,8,Windows 10,2.65,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GTX,1195.0
+Asus,Ultrabook,14.0,8,Windows 10,1.25,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1049.0
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.5,1920,1080,True,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,847.0
+Dell,Notebook,15.6,8,Linux,2.2,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,AMD,599.9
+Dell,Notebook,15.6,4,Linux,2.2,1920,1080,False,Unknown,256,0,2.0,Intel Core i3,AMD,485.0
+Asus,Notebook,15.6,6,Windows 10,2.0,1920,1080,False,Unknown,256,0,2.4,Intel Core i3,Nvidia GeForce,577.0
+HP,Gaming,15.6,12,Windows 10,2.62,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1249.0
+HP,Notebook,15.6,8,Windows 10,1.91,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,AMD,719.0
+HP,Notebook,15.6,4,Windows 10,2.1,1920,1080,False,Unknown,0,500,1.5,AMD,AMD,349.0
+Dell,Notebook,15.6,8,Linux,2.2,1920,1080,False,Unknown,0,1000,1.6,Intel Core i5,AMD,647.0
+HP,Ultrabook,13.3,8,Windows 10,1.38,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Nvidia GeForce,1119.0
+Microsoft,Ultrabook,13.5,8,Windows 10 S,1.252,2256,1504,True,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1340.0
+HP,Notebook,14.0,6,Windows 10,1.58,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Nvidia GeForce,659.0
+Lenovo,Notebook,15.6,4,Windows 10,1.85,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,414.9
+Asus,Ultrabook,14.0,8,Windows 10,1.3,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Nvidia GeForce,1193.0
+MSI,Gaming,15.6,16,Windows 10,2.2,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1299.0
+Lenovo,Notebook,14.0,8,Windows 10,1.58,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1480.0
+Asus,Ultrabook,15.6,16,Windows 10,1.5,1920,1080,False,Unknown,256,1000,1.8,Intel Core i7,Nvidia GeForce,1262.0
+Dell,Ultrabook,13.3,8,Windows 10,1.23,3200,1800,True,Unknown,256,0,2.4,Intel Core i7,Intel Iris,1379.0
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1920,1080,True,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1399.0
+HP,Notebook,14.0,4,Windows 10,1.63,1366,768,False,IPS Panel,0,500,1.6,Intel Core i5,Intel HD Graphics,722.0
+Dell,Ultrabook,13.3,8,Windows 10,1.21,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,1629.0
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.26,1920,1080,True,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,1398.99
+HP,Notebook,14.0,8,Windows 10,1.63,1920,1080,False,Unknown,512,0,1.8,Intel Core i7,Intel HD Graphics,1084.0
+Dell,Notebook,15.6,8,Windows 10,2.16,1920,1080,False,IPS Panel,256,1000,1.8,Intel Core i7,Nvidia GeForce,1130.33
+Asus,Notebook,17.3,4,Windows 10,2.0,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,Nvidia GeForce,564.0
+Asus,Notebook,15.6,8,Windows 10,1.7,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,Nvidia GeForce,1118.0
+Acer,Notebook,15.6,6,Windows 10,2.1,1920,1080,True,IPS Panel,0,1000,2.4,Intel Core i3,Intel HD Graphics,479.0
+MSI,Gaming,15.6,16,Windows 10,1.8,1920,1080,False,Unknown,256,2000,2.8,Intel Core i7,Nvidia GTX,2241.5
+Lenovo,Notebook,15.6,8,No OS,2.2,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GeForce,629.0
+HP,Notebook,17.3,16,Windows 10,2.5,1920,1080,False,Unknown,512,0,1.8,Intel Core i7,Nvidia GeForce,1271.0
+Acer,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,256,0,3.0,AMD,AMD,451.0
+HP,Notebook,15.6,4,No OS,1.86,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,259.0
+HP,Notebook,14.0,8,Windows 10,1.63,1920,1080,False,Unknown,0,1000,1.6,Intel Core i5,Intel HD Graphics,812.0
+Asus,Notebook,14.0,4,Windows 10 S,1.65,1366,768,False,Unknown,64,0,1.5,AMD,AMD,277.99
+Dell,Notebook,17.3,16,Windows 10,2.8,1920,1080,False,Unknown,256,2000,1.8,Intel Core i7,AMD,1396.0
+HP,Notebook,17.3,8,Windows 10,2.5,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,928.0
+Dell,Notebook,15.6,8,Windows 10,2.36,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,AMD,638.99
+Dell,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,AMD,449.0
+Acer,Ultrabook,14.0,8,Windows 10,1.6,1920,1080,False,IPS Panel,256,0,1.8,Intel Core i7,Intel HD Graphics,884.0
+Acer,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,256,0,2.7,Intel Core i3,Nvidia GeForce,572.0
+HP,Notebook,15.6,8,Windows 10,2.05,1366,768,False,Unknown,0,1000,2.7,Intel Core i7,Intel HD Graphics,598.0
+HP,Notebook,14.0,8,Windows 10,1.63,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,Intel HD Graphics,988.0
+Lenovo,Notebook,15.6,4,No OS,1.9,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,252.36
+Asus,Gaming,17.3,8,Windows 10,3.0,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GTX,938.0
+Lenovo,Notebook,15.6,4,No OS,2.2,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GeForce,499.0
+HP,Notebook,13.3,4,Windows 10,1.32,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,699.0
+Acer,Notebook,17.3,4,Windows 10,3.0,1920,1080,False,IPS Panel,0,1000,2.7,Intel Core i3,Nvidia GeForce,655.0
+Lenovo,Notebook,14.0,8,Windows 10,1.75,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,AMD,1116.02
+Lenovo,Gaming,15.6,8,No OS,2.4,1920,1080,False,IPS Panel,256,0,2.8,Intel Core i7,Nvidia GTX,869.0
+Toshiba,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,602.0
+HP,Notebook,15.6,4,Windows 10,1.86,1366,768,False,Unknown,256,0,2.5,AMD,AMD,369.0
+Asus,Ultrabook,14.0,8,Windows 10,1.25,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,Intel HD Graphics,1099.0
+HP,Ultrabook,12.5,8,Windows 10,0.97,3840,2160,True,IPS Panel,512,0,1.2,Intel Other,Intel HD Graphics,2014.0
+Asus,Notebook,15.6,4,Windows 10,2.0,1920,1080,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,344.0
+MSI,Gaming,17.3,16,Windows 10,2.9,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2029.0
+Acer,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,447.0
+Dell,Gaming,15.6,16,Windows 10,2.56,1920,1080,False,Unknown,512,0,2.8,Intel Core i7,Nvidia GTX,1249.26
+Dell,Gaming,15.6,8,Windows 10,2.62,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,899.0
+Lenovo,Notebook,15.6,4,Windows 10,1.9,1366,768,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,498.0
+MSI,Gaming,17.3,16,Windows 10,2.8,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1890.0
+HP,Ultrabook,14.0,4,Windows 10,1.48,1920,1080,False,Unknown,256,0,2.7,Intel Core i5,Intel HD Graphics,1082.0
+HP,Notebook,15.6,6,Windows 10,1.91,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,AMD,619.0
+Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.74,1920,1080,True,IPS Panel,256,0,2.4,Intel Core i3,Intel HD Graphics,629.0
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1920,1080,True,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,1315.0
+Dell,2 in 1 Convertible,15.6,8,Windows 10,1.56,1920,1080,True,Unknown,256,0,1.8,Intel Core i7,Intel HD Graphics,1049.0
+Toshiba,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,2.2,Intel Core i3,Intel HD Graphics,447.0
+Asus,Notebook,15.6,4,Windows 10,2.03,1366,768,False,Unknown,0,1000,3.0,AMD,AMD,403.0
+Acer,Notebook,17.3,4,Windows 10,3.0,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,Nvidia GeForce,805.0
+Dell,Notebook,15.6,8,Windows 10,2.13,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,AMD,728.0
+Lenovo,Gaming,15.6,16,Windows 10,2.5,1920,1080,False,IPS Panel,256,0,2.8,Intel Core i7,Nvidia GTX,1079.0
+Acer,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,348.0
+MSI,Gaming,15.6,16,Windows 10,2.4,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1799.0
+Acer,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,363.51
+Dell,Gaming,15.6,8,Windows 10,2.56,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1060.49
+Acer,Notebook,17.3,8,Windows 10,3.0,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,Nvidia GeForce,854.0
+HP,Notebook,13.3,4,Windows 10,1.49,1920,1080,False,IPS Panel,0,500,1.6,Intel Core i5,Intel HD Graphics,754.0
+Huawei,Ultrabook,13.0,8,Windows 10,1.05,2160,1440,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1349.0
+HP,Notebook,17.3,6,Windows 10,2.71,1920,1080,False,IPS Panel,0,2000,2.5,Intel Core i5,AMD,699.0
+Lenovo,Notebook,15.6,4,No OS,2.2,1366,768,False,Unknown,0,500,2.9,AMD,AMD,309.0
+Toshiba,Notebook,15.6,4,Windows 10,2.0,1366,768,False,Unknown,0,500,2.4,Intel Core i3,Intel HD Graphics,489.0
+HP,Notebook,17.3,8,Windows 10,2.5,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Nvidia GeForce,923.0
+Dell,Notebook,15.6,8,Windows 10,2.3,1366,768,False,Unknown,0,1000,2.4,Intel Core i3,Intel HD Graphics,459.0
+Acer,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,449.0
+MSI,Gaming,18.4,32,Windows 10,4.4,1920,1080,False,Unknown,512,1000,2.9,Intel Core i7,Nvidia GTX,2799.0
+Lenovo,Notebook,15.6,8,Windows 10,1.9,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,AMD,813.0
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,3840,2160,True,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,1499.0
+Dell,Notebook,15.6,16,Linux,2.02,1920,1080,False,Unknown,256,2000,1.8,Intel Core i7,AMD,1049.0
+Dell,Ultrabook,13.3,8,Windows 10,1.23,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,1399.0
+Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,3840,2160,True,IPS Panel,512,0,1.8,Intel Core i7,Intel HD Graphics,1849.0
+Toshiba,Notebook,15.6,8,Windows 10,2.0,1366,768,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,793.0
+Xiaomi,Notebook,15.6,8,No OS,1.95,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,Nvidia GeForce,1199.0
+Dell,Notebook,17.3,16,Windows 10,2.77,1920,1080,True,Unknown,512,0,1.8,Intel Core i7,Nvidia GeForce,1549.0
+Dell,Notebook,15.6,16,Windows 10,2.06,3840,2160,True,Unknown,512,0,2.8,Intel Core i7,Nvidia GTX,2397.0
+Lenovo,Gaming,15.6,8,No OS,2.4,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Nvidia GTX,779.0
+Acer,Ultrabook,13.3,8,Windows 10,1.12,1920,1080,False,IPS Panel,256,0,1.2,Intel Core i5,Intel HD Graphics,989.0
+Dell,Notebook,17.3,8,Windows 10,2.8,1920,1080,False,Unknown,128,1000,1.8,Intel Core i7,AMD,1085.0
+Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.42,2560,1440,True,Unknown,1000,0,2.7,Intel Core i7,Intel HD Graphics,2824.0
+Vero,Notebook,14.0,4,Windows 10,1.3,1920,1080,False,IPS Panel,32,0,1.1,Intel Other,Intel HD Graphics,260.0
+Xiaomi,Ultrabook,13.3,8,No OS,1.3,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Nvidia GeForce,999.9
+Lenovo,Notebook,17.3,8,No OS,2.8,1600,900,False,Unknown,256,0,1.6,Intel Core i5,Nvidia GeForce,698.0
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,1920,1080,True,IPS Panel,0,1000,1.8,Intel Core i7,Intel HD Graphics,839.0
+HP,Notebook,17.3,8,Windows 10,2.5,1920,1080,False,IPS Panel,0,1000,1.6,Intel Core i5,Nvidia GeForce,914.0
+Razer,Gaming,17.3,32,Windows 10,3.49,3840,2160,True,Unknown,1000,0,2.9,Intel Core i7,Nvidia GTX,6099.0
+HP,Notebook,13.3,8,Windows 10,1.49,1920,1080,False,Unknown,512,0,1.6,Intel Core i5,Intel HD Graphics,959.0
+HP,Gaming,17.3,16,Windows 10,3.35,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1379.0
+HP,Notebook,17.3,8,Windows 10,2.5,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,Nvidia GeForce,1045.0
+Dell,Gaming,15.6,16,Windows 10,2.65,3840,2160,False,IPS Panel,512,1000,2.8,Intel Core i7,Nvidia GTX,1845.0
+Lenovo,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,128,0,2.3,Intel Core i5,Intel HD Graphics,493.0
+Acer,Notebook,15.6,8,Windows 10,2.23,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,Nvidia GeForce,742.0
+Lenovo,Gaming,15.6,16,Windows 10,3.2,1920,1080,False,IPS Panel,512,1000,2.8,Intel Core i7,Nvidia GTX,1749.0
+Dell,Workstation,15.6,16,Windows 10,2.8,3840,2160,False,Unknown,256,1000,3.0,Intel Other,Nvidia Quadro,3055.0
+Lenovo,Gaming,15.6,16,No OS,2.4,1920,1080,False,Unknown,512,0,2.8,Intel Core i7,Nvidia GTX,1398.0
+Dell,Notebook,15.6,6,Windows 10,2.3,1366,768,True,Unknown,0,1000,2.4,Intel Core i3,Intel HD Graphics,439.0
+Dell,Ultrabook,13.3,8,Windows 10,1.21,3840,2160,True,IPS Panel,256,0,1.8,Intel Core i7,Intel HD Graphics,1949.0
+Dell,Ultrabook,13.3,8,Windows 10,1.2,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,Intel HD Graphics,1449.0
+Lenovo,Notebook,15.6,8,Windows 10,2.2,1366,768,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,597.0
+Acer,Notebook,15.6,8,Linux,2.4,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,779.0
+Asus,Gaming,17.3,16,Windows 10,2.9,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1407.0
+HP,Notebook,15.6,4,No OS,2.1,1920,1080,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,349.0
+Lenovo,Notebook,15.6,8,No OS,2.2,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,549.0
+Huawei,Ultrabook,13.0,8,Windows 10,1.05,2160,1440,False,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,1499.0
+Dell,Ultrabook,13.3,8,Windows 10,1.4,1920,1080,False,IPS Panel,256,0,1.8,Intel Core i7,AMD,931.88
+Lenovo,Notebook,17.3,8,No OS,2.8,1600,900,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GTX,589.0
+HP,Notebook,14.0,8,Windows 10,1.63,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,Nvidia GeForce,1031.0
+Dell,Ultrabook,14.0,8,Windows 10,1.6,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,1149.0
+Dell,2 in 1 Convertible,13.3,16,Windows 10,1.62,1920,1080,True,Unknown,512,0,1.8,Intel Core i7,Intel HD Graphics,1279.0
+Dell,Notebook,15.6,8,Linux,2.2,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,AMD,677.35
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.74,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,899.0
+Toshiba,Ultrabook,13.3,8,Windows 10,1.2,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,1363.0
+HP,Notebook,15.6,8,Windows 10,2.1,1920,1080,False,Unknown,0,1000,1.6,Intel Core i5,Intel HD Graphics,794.0
+Dell,Gaming,17.3,16,Windows 10,4.42,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,2456.34
+Acer,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Nvidia GeForce,832.0
+Dell,Notebook,15.6,16,Windows 10,2.3,1920,1080,True,Unknown,0,1000,2.7,Intel Core i7,AMD,859.01
+Asus,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GeForce,769.0
+Asus,Notebook,17.3,8,Windows 10,2.69,1920,1080,False,Unknown,256,500,2.5,Intel Core i5,Nvidia GTX,891.0
+HP,Notebook,15.6,8,Windows 10,1.9,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,AMD,1269.0
+Asus,Notebook,15.6,4,Windows 10,2.37,1366,768,False,Unknown,0,1000,2.4,Intel Core i3,Intel HD Graphics,398.99
+HP,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,1.5,AMD,AMD,330.0
+Lenovo,Gaming,15.6,16,Windows 10,3.2,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1499.0
+Dell,Notebook,14.0,8,Windows 10,1.6,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,859.0
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,1920,1080,True,IPS Panel,256,0,2.3,Intel Core i5,Intel HD Graphics,689.0
+Dell,Notebook,15.6,16,Linux,2.36,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,AMD,899.0
+Acer,Notebook,15.6,4,Linux,2.1,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,390.0
+Asus,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,128,1000,2.5,AMD,AMD,575.0
+Asus,Gaming,17.3,32,Windows 10,4.7,1920,1080,False,Unknown,512,1000,2.9,Intel Core i7,Nvidia GTX,3890.0
+Acer,Gaming,15.6,8,Windows 10,2.5,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Nvidia GTX,846.0
+Lenovo,Notebook,15.6,8,Windows 10,2.2,1366,768,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,589.0
+Asus,Notebook,17.3,8,Windows 10,2.1,1920,1080,False,Unknown,128,1000,1.8,Intel Core i7,Nvidia GeForce,1145.0
+Asus,Notebook,17.3,8,No OS,2.69,1920,1080,False,Unknown,128,1000,2.7,Intel Core i7,Nvidia GTX,889.0
+Dell,Gaming,15.6,8,Windows 10,2.56,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GTX,879.0
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,1920,1080,True,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1079.0
+Dell,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,128,2000,1.8,Intel Core i7,AMD,985.0
+HP,Notebook,15.6,8,Windows 10,2.04,1366,768,True,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,559.0
+Asus,Gaming,17.3,16,Windows 10,3.6,1920,1080,False,Unknown,256,0,2.9,Intel Core i7,Nvidia GTX,2999.0
+HP,Notebook,13.3,4,Windows 10,1.49,1920,1080,False,IPS Panel,0,500,1.6,Intel Core i5,Intel HD Graphics,675.0
+Apple,Ultrabook,13.3,8,macOS,1.37,2560,1600,False,IPS Panel Retina Display,512,0,3.1,Intel Core i5,Intel Iris,2040.0
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.08,1920,1080,True,IPS Panel,0,1000,1.8,Intel Core i7,Intel HD Graphics,819.0
+Asus,Gaming,17.3,16,Windows 10,4.3,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1799.0
+Asus,Notebook,15.6,4,Windows 10,1.68,1366,768,False,Unknown,0,1000,3.0,AMD,AMD,469.0
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.37,1920,1080,True,IPS Panel,512,0,1.8,Intel Core i7,Intel HD Graphics,1849.0
+Acer,Notebook,17.3,4,Windows 10,3.0,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i3,Nvidia GeForce,702.0
+Dell,Ultrabook,13.3,8,Windows 10,1.41,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,949.0
+HP,Notebook,15.6,8,Windows 10,1.91,1366,768,False,Unknown,128,0,2.5,AMD,AMD,445.9
+HP,Notebook,17.3,16,Windows 10,2.9,1920,1080,False,IPS Panel,0,1000,1.8,Intel Core i7,Nvidia GeForce,1059.0
+MSI,Gaming,17.3,16,Windows 10,4.14,1920,1080,False,Unknown,512,1000,2.8,Intel Core i7,Nvidia GTX,2499.0
+Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,1920,1080,True,IPS Panel,512,0,2.8,Intel Core i7,Nvidia GTX,1699.0
+Dell,Notebook,17.3,8,Windows 10,2.8,1920,1080,False,Unknown,128,1000,1.8,Intel Core i7,AMD,1142.0
+Lenovo,Notebook,15.6,4,No OS,2.2,1920,1080,False,Unknown,256,0,2.0,Intel Core i3,Intel HD Graphics,444.0
+HP,Notebook,15.6,4,Windows 10,2.1,1920,1080,False,IPS Panel,0,500,1.6,Intel Core i5,Intel HD Graphics,722.0
+Dell,Notebook,15.6,4,Windows 10,2.18,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,657.0
+Dell,Notebook,15.6,8,Windows 10,2.24,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,AMD,565.0
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.67,1920,1080,True,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,799.0
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1920,1080,True,Unknown,512,0,1.8,Intel Core i7,Intel HD Graphics,1499.0
+Lenovo,Notebook,15.6,4,No OS,2.2,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,467.0
+HP,Notebook,17.3,8,Windows 10,2.5,1920,1080,False,Unknown,0,1000,1.8,Intel Core i7,Nvidia GeForce,1018.0
+Lenovo,Notebook,15.6,8,Windows 10,2.05,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,Intel HD Graphics,880.0
+Apple,Ultrabook,13.3,8,macOS,1.37,2560,1600,False,IPS Panel Retina Display,512,0,2.9,Intel Core i5,Intel Iris,1958.9
+Asus,Gaming,17.3,16,Windows 10,3.2,1920,1080,False,Unknown,256,1000,3.0,AMD,AMD,1549.0
+Dell,Notebook,15.6,8,Linux,2.14,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,AMD,735.07
+Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.36,2560,1440,True,Unknown,512,0,2.6,Intel Core i7,Intel HD Graphics,2499.0
+Toshiba,Notebook,15.6,8,Windows 10,2.2,1366,768,False,Unknown,0,500,2.5,Intel Core i7,Nvidia GeForce,812.0
+Dell,Notebook,15.6,12,Windows 10,2.3,1366,768,False,Unknown,0,1000,2.7,Intel Core i7,Intel HD Graphics,713.07
+Dell,Notebook,17.3,8,Linux,2.8,1920,1080,False,Unknown,128,1000,1.8,Intel Core i7,AMD,1099.0
+Acer,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,IPS Panel,0,1000,1.8,Intel Core i7,Nvidia GeForce,745.0
+Lenovo,Notebook,17.3,4,Windows 10,2.8,1600,900,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,489.0
+Lenovo,Notebook,17.3,8,No OS,2.8,1920,1080,False,Unknown,0,2000,1.8,Intel Core i7,Nvidia GeForce,849.0
+Lenovo,Notebook,17.3,6,Windows 10,2.8,1600,900,False,Unknown,128,1000,2.7,Intel Core i7,Nvidia GeForce,859.0
+Dell,Notebook,15.6,4,Linux,2.25,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,AMD,428.0
+Lenovo,Gaming,15.6,8,Windows 10,2.5,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Nvidia GTX,829.0
+Lenovo,Notebook,15.6,6,Windows 10,2.2,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,579.0
+Acer,Notebook,15.6,8,Windows 10,3.0,1920,1080,False,IPS Panel,256,0,1.8,Intel Core i7,Nvidia GeForce,951.0
+Acer,Notebook,15.6,12,Windows 10,2.15,1920,1080,True,IPS Panel,0,1000,2.7,Intel Core i7,Intel HD Graphics,659.0
+Lenovo,Notebook,15.6,8,Windows 10,1.95,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1097.0
+Asus,Ultrabook,15.6,8,Windows 10,1.7,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GeForce,977.0
+Lenovo,Gaming,15.6,16,Windows 10,2.5,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1179.0
+Lenovo,Notebook,15.6,8,No OS,2.2,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,Nvidia GeForce,659.01
+Acer,Notebook,15.6,2,Chrome OS,2.19,1366,768,False,Unknown,16,0,1.5,Intel Other,Intel HD Graphics,199.0
+Asus,Gaming,17.3,8,Windows 10,3.0,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,1187.0
+HP,Notebook,17.3,8,Windows 10,2.54,1600,900,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,489.0
+Dell,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia GTX,1829.0
+Lenovo,Notebook,15.6,8,Windows 10,2.05,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,739.0
+Lenovo,Gaming,15.6,8,Windows 10,3.2,1920,1080,False,IPS Panel,0,1000,2.8,Intel Core i7,Nvidia GTX,1299.0
+Acer,Notebook,15.6,8,Linux,2.5,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia GTX,979.0
+Dell,Workstation,17.3,16,Windows 10,3.42,1920,1080,False,Unknown,256,0,2.9,Intel Core i7,Nvidia Quadro,2884.86
+Lenovo,Notebook,15.6,6,Windows 10,2.4,1920,1080,False,Unknown,0,1000,2.4,AMD,AMD,499.0
+Asus,Ultrabook,15.6,16,Windows 10,1.63,1920,1080,False,Unknown,512,0,2.7,Intel Core i7,Nvidia GeForce,1468.0
+Asus,Notebook,14.0,4,Windows 10,1.3,1366,768,False,Unknown,128,0,2.4,Intel Core i3,Intel HD Graphics,509.0
+Asus,Gaming,17.3,16,Windows 10,2.9,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2122.0
+Lenovo,Notebook,17.3,6,Windows 10,2.8,1600,900,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GTX,649.0
+Lenovo,Notebook,15.6,8,No OS,2.2,1366,768,False,Unknown,0,2000,2.5,Intel Core i5,Nvidia GeForce,549.0
+Asus,Gaming,15.6,8,Windows 10,2.5,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1265.0
+Lenovo,Notebook,15.6,4,No OS,2.2,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,359.99
+HP,2 in 1 Convertible,13.3,16,Windows 10,1.28,1920,1080,True,Unknown,256,0,2.8,Intel Core i7,Intel HD Graphics,1975.0
+Toshiba,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i7,Nvidia GeForce,1043.0
+Lenovo,Notebook,15.6,8,Windows 10,2.3,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GeForce,819.0
+HP,Notebook,15.6,4,Windows 10,1.86,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,469.0
+Lenovo,Notebook,13.3,8,Windows 10,1.1,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,999.0
+Dell,Ultrabook,13.3,16,Windows 10,1.21,3840,2160,True,IPS Panel,1000,0,1.8,Intel Core i7,Intel HD Graphics,2499.0
+MSI,Gaming,15.6,16,Windows 10,2.8,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,2099.0
+Acer,Notebook,15.6,8,Windows 10,2.23,1920,1080,False,Unknown,256,0,2.2,AMD,AMD,469.0
+Asus,2 in 1 Convertible,11.6,2,Windows 10,1.1,1366,768,True,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,275.0
+Dell,Notebook,15.6,8,Windows 10,2.33,1920,1080,False,Unknown,128,1000,1.6,Intel Core i5,AMD,844.0
+HP,2 in 1 Convertible,13.3,16,Windows 10,1.29,3840,2160,True,IPS Panel,1000,0,1.8,Intel Core i7,Intel HD Graphics,2449.0
+Lenovo,Notebook,13.3,4,Chrome OS,1.45,1366,768,False,Unknown,16,0,1.6,Intel Other,Intel HD Graphics,459.9
+HP,Notebook,14.0,8,Windows 10,1.95,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,980.0
+Acer,Notebook,11.6,4,Windows 10,1.4,1366,768,False,Unknown,128,0,1.6,Intel Other,Intel HD Graphics,485.0
+HP,Notebook,14.0,8,Windows 10,1.48,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1292.0
+Lenovo,Notebook,17.3,4,Windows 10,2.79,1600,900,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GeForce,589.0
+Asus,Notebook,14.0,8,Windows 10,2.0,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1094.0
+HP,Notebook,15.6,8,Windows 10,2.1,1366,768,False,IPS Panel,0,1000,1.8,Intel Core i7,Intel HD Graphics,902.0
+Acer,Notebook,15.6,8,Windows 10,2.2,1366,768,False,Unknown,256,0,2.7,AMD,AMD,659.0
+Lenovo,Notebook,14.0,4,Windows 10,1.44,1366,768,False,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,292.0
+Acer,Notebook,15.6,6,Windows 10,2.23,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,549.0
+Asus,Ultrabook,15.6,8,Windows 10,1.7,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Nvidia GeForce,1049.9
+HP,Ultrabook,12.5,8,Windows 10,1.26,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1335.0
+Dell,Notebook,15.6,32,Windows 10,2.06,3840,2160,True,Unknown,1000,0,2.8,Intel Core i7,Nvidia GTX,2639.0
+MSI,Gaming,17.3,8,Windows 10,2.7,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1199.0
+Toshiba,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,943.0
+Asus,Notebook,14.0,8,Windows 10,2.0,1920,1080,False,Unknown,256,1000,2.7,Intel Core i7,Intel HD Graphics,1334.0
+Lenovo,Notebook,15.6,4,Windows 10,1.85,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,449.0
+Asus,Gaming,15.6,8,Windows 10,2.5,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia GTX,999.0
+HP,Notebook,14.0,8,Windows 10,1.48,1920,1080,False,Unknown,256,0,2.6,Intel Core i5,Intel HD Graphics,1268.0
+Dell,Ultrabook,15.6,8,Windows 10,1.9,1920,1080,False,IPS Panel,128,1000,1.6,Intel Core i5,Nvidia GeForce,1049.0
+HP,Notebook,15.6,8,Windows 10,1.84,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1144.0
+Asus,Notebook,15.6,4,Linux,2.0,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,274.99
+Dell,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Nvidia GeForce,1142.75
+Dell,Notebook,15.6,4,Linux,2.2,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,274.9
+Lenovo,Notebook,15.6,12,Windows 10,2.2,1920,1080,False,Unknown,0,2000,3.6,AMD,AMD,899.0
+HP,Notebook,15.6,8,Windows 10,2.1,1920,1080,False,IPS Panel,0,1000,2.4,Intel Core i3,Nvidia GeForce,716.0
+Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,3840,2160,True,IPS Panel,512,0,1.8,Intel Core i7,Intel HD Graphics,2099.0
+Dell,Ultrabook,13.3,8,Windows 10,1.2,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,Intel HD Graphics,1579.0
+Lenovo,Gaming,15.6,16,Windows 10,2.4,1920,1080,False,IPS Panel,256,2000,2.8,Intel Core i7,Nvidia GTX,1129.0
+HP,Notebook,14.0,2,Windows 10,1.44,1366,768,False,Unknown,32,0,1.6,Intel Other,Intel HD Graphics,279.0
+Dell,Ultrabook,15.6,16,Windows 10,1.88,1920,1080,False,Unknown,512,0,1.9,Intel Core i7,Intel HD Graphics,1607.96
+Asus,2 in 1 Convertible,11.6,4,Windows 10,1.5,1366,768,True,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,375.0
+Dell,Ultrabook,15.6,8,Windows 10,1.9,1920,1080,False,Unknown,0,1000,1.6,Intel Core i5,AMD,663.0
+Dell,Notebook,15.6,16,Windows 10,2.06,3840,2160,True,Unknown,512,0,2.8,Intel Core i7,Nvidia GTX,2027.42
+HP,Notebook,15.6,8,Windows 10,1.84,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1304.0
+MSI,Gaming,17.3,8,Windows 10,2.7,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1409.0
+HP,Workstation,15.6,8,Windows 10,2.6,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia Quadro,1738.27
+Toshiba,Notebook,15.6,16,Windows 10,2.4,1920,1080,False,IPS Panel,512,0,2.5,Intel Core i7,Nvidia GeForce,1403.0
+Dell,Notebook,15.6,8,Windows 10,2.02,1920,1080,False,Unknown,128,2000,1.8,Intel Core i7,AMD,970.9
+Lenovo,Notebook,15.6,4,No OS,2.2,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,321.99
+Dell,Gaming,15.6,8,Windows 10,2.65,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GTX,999.0
+Dell,Notebook,15.6,8,Windows 10,2.36,1366,768,True,Unknown,0,2000,2.5,Intel Core i5,Intel HD Graphics,557.37
+Dell,Notebook,14.0,8,Windows 10,1.36,1920,1080,False,Unknown,256,0,2.6,Intel Core i5,Intel HD Graphics,1427.0
+HP,Notebook,15.6,4,Windows 10,1.86,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,439.0
+Asus,Notebook,14.0,8,Windows 10,2.0,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,945.0
+Lenovo,Notebook,17.3,6,Windows 10,2.8,1600,900,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GTX,719.0
+HP,Notebook,15.6,8,Windows 10,1.86,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,639.0
+Lenovo,Notebook,15.6,8,No OS,2.2,1366,768,False,Unknown,256,0,2.0,Intel Core i3,Nvidia GeForce,499.0
+HP,Notebook,15.6,8,Windows 10,2.04,1366,768,False,Unknown,0,2000,1.6,Intel Other,Intel HD Graphics,389.0
+Dell,Notebook,17.3,8,Windows 10,2.8,1920,1080,False,Unknown,128,1000,1.6,Intel Core i5,AMD,1085.0
+Lenovo,Gaming,15.6,8,No OS,2.4,1920,1080,False,IPS Panel,128,1000,2.5,Intel Core i5,Nvidia GTX,809.0
+Dell,Notebook,15.6,8,Windows 10,2.33,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,AMD,899.0
+HP,Ultrabook,14.0,8,Windows 10,1.36,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1750.0
+Asus,2 in 1 Convertible,15.6,12,Windows 10,2.26,1920,1080,True,Unknown,512,2000,2.7,Intel Core i7,Nvidia GeForce,1099.0
+Acer,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,128,0,3.0,AMD,AMD,426.0
+Asus,Gaming,17.3,16,Windows 10,3.25,1920,1080,False,IPS Panel,256,1000,3.0,AMD,AMD,2199.0
+Lenovo,Notebook,17.3,4,Windows 10,2.6,1600,900,False,Unknown,128,0,2.2,AMD,AMD,489.0
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,1920,1080,True,Unknown,256,0,1.8,Intel Core i7,Intel HD Graphics,869.01
+HP,Notebook,15.6,4,Windows 10,1.91,1920,1080,False,Unknown,256,0,3.0,AMD,AMD,488.99
+Lenovo,Netbook,11.6,4,Windows 10,1.59,1366,768,False,IPS Panel,128,0,1.1,Intel Other,Intel HD Graphics,553.0
+Dell,Notebook,15.6,4,Windows 10,1.8,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,309.0
+Asus,Notebook,14.0,4,Windows 10,1.5,1366,768,False,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,286.0
+Acer,Notebook,15.6,8,Linux,2.4,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,846.0
+HP,Gaming,17.3,8,Windows 10,3.35,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1191.0
+Lenovo,Notebook,15.6,4,No OS,1.85,1920,1080,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,403.5
+Asus,Gaming,15.6,8,Windows 10,2.3,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1655.0
+Lenovo,Notebook,14.0,8,Windows 10,1.5,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Nvidia GeForce,1099.0
+Asus,Ultrabook,13.3,16,Windows 10,1.1,1920,1080,True,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,1748.9
+Lenovo,Ultrabook,14.0,8,Windows 10,1.13,2560,1440,False,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,2282.0
+Lenovo,Notebook,13.3,4,Windows 10,1.5,1920,1080,False,IPS Panel,128,0,2.4,Intel Core i3,Intel HD Graphics,549.0
+Dell,Workstation,15.6,8,Windows 10,2.23,1920,1080,False,Unknown,0,500,2.6,Intel Core i5,AMD,1369.0
+Dell,Workstation,15.6,8,Windows 10,2.0,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Nvidia Quadro,2135.0
+Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.42,2560,1440,True,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,2509.0
+Asus,Gaming,17.3,8,Windows 10,3.0,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,1039.0
+Asus,Gaming,17.3,16,Windows 10,3.0,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1591.0
+Acer,Notebook,15.6,12,Windows 10,2.2,1366,768,False,IPS Panel,0,1000,1.6,Intel Core i5,Nvidia GeForce,693.99
+MSI,Gaming,17.3,8,Windows 10,2.7,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia GTX,1349.0
+Dell,Notebook,15.6,8,Linux,2.33,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,AMD,778.87
+HP,Ultrabook,15.6,4,Windows 10,1.91,1920,1080,False,Unknown,256,0,3.0,AMD,AMD,499.0
+Lenovo,Notebook,15.6,8,Windows 10,2.1,1920,1080,False,IPS Panel,256,0,1.8,Intel Core i7,AMD,1229.56
+Lenovo,Notebook,14.0,8,Windows 10,1.9,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,938.0
+Dell,Workstation,15.6,8,Windows 10,1.78,3840,2160,True,Unknown,256,0,2.8,Intel Core i7,Nvidia Quadro,2712.0
+Lenovo,Ultrabook,14.0,16,Windows 10,1.13,2560,1440,False,IPS Panel,1000,0,2.7,Intel Core i7,Intel HD Graphics,2625.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,306.0
+Asus,Gaming,17.3,16,Windows 10,2.9,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1529.0
+Lenovo,Notebook,15.6,8,Windows 10,2.1,1920,1080,False,IPS Panel,256,1000,1.6,Intel Core i5,AMD,1144.5
+Acer,Notebook,15.6,8,Linux,2.5,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia GTX,879.0
+MSI,Gaming,17.3,16,Windows 10,2.8,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2249.0
+Asus,Ultrabook,14.0,8,Windows 10,1.1,1920,1080,False,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,1873.0
+Toshiba,Ultrabook,13.3,16,Windows 10,1.2,1920,1080,False,Unknown,512,0,2.5,Intel Core i7,Intel HD Graphics,1747.0
+Dell,Ultrabook,14.0,8,Windows 10,1.36,1920,1080,False,Unknown,512,0,2.8,Intel Core i7,Intel HD Graphics,1680.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,409.0
+Lenovo,Notebook,11.6,2,Windows 10,1.15,1366,768,False,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,304.45
+Lenovo,Workstation,15.6,8,Windows 10,2.67,1920,1080,False,Unknown,512,0,2.8,Intel Core i7,Nvidia Quadro,1925.0
+Lenovo,Ultrabook,14.0,8,Windows 10,1.7,2560,1440,False,IPS Panel,512,0,2.8,Intel Core i7,Nvidia GeForce,1943.0
+HP,Notebook,15.6,4,Windows 10,2.1,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,AMD,469.0
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,1920,1080,True,IPS Panel,256,0,2.5,Intel Core i7,Intel HD Graphics,789.01
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.27,1920,1080,True,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,928.0
+Dell,Notebook,15.6,4,Linux,2.3,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,AMD,598.9
+Dell,Notebook,13.3,4,Windows 10,1.65,1366,768,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,689.0
+HP,Ultrabook,14.0,8,Windows 10,1.43,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,1500.0
+Dell,Notebook,15.6,8,Windows 10,2.14,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,539.95
+Lenovo,Ultrabook,14.0,8,Windows 10,1.75,1920,1080,False,IPS Panel,256,0,1.8,Intel Core i7,AMD,1215.38
+Lenovo,2 in 1 Convertible,15.6,16,Windows 10,2.0,3840,2160,True,IPS Panel,512,0,2.8,Intel Core i7,Nvidia GTX,1899.0
+Chuwi,Notebook,12.3,6,Windows 10,1.4,2736,1824,False,IPS Panel Retina Display,64,0,1.1,Intel Other,Intel HD Graphics,449.0
+HP,Notebook,15.6,8,Windows 10,2.31,1920,1080,False,Unknown,256,0,2.9,Intel Core i7,Intel HD Graphics,1427.0
+Asus,Notebook,15.6,8,Linux,2.3,1920,1080,False,Unknown,0,1000,2.4,Intel Core i3,Nvidia GeForce,597.0
+Dell,Gaming,17.3,16,Windows 10,4.42,2560,1440,False,IPS Panel,256,1000,2.9,Intel Core i7,Nvidia GTX,2799.0
+Dell,Gaming,15.6,8,Windows 10,2.62,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1159.0
+Dell,Notebook,15.6,8,Windows 10,2.02,1920,1080,False,Unknown,256,2000,1.8,Intel Core i7,AMD,1142.4
+Dell,Ultrabook,14.0,8,Linux,1.6,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Intel HD Graphics,1099.0
+HP,Gaming,17.3,12,Windows 10,3.35,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1999.0
+Mediacom,2 in 1 Convertible,11.6,4,Windows 10,1.16,1920,1080,True,IPS Panel,32,0,1.1,Intel Other,Intel HD Graphics,299.0
+Samsung,Netbook,11.6,4,Chrome OS,1.15,1366,768,False,Unknown,16,0,1.6,Intel Other,Intel HD Graphics,269.0
+Lenovo,Notebook,13.3,8,Windows 10,1.4,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1010.0
+Lenovo,Notebook,14.0,4,Windows 10,1.7,1920,1080,False,IPS Panel,128,0,2.7,Intel Core i3,Intel HD Graphics,599.0
+Lenovo,Workstation,15.6,16,Windows 10,2.3,3840,2160,False,IPS Panel,512,0,2.8,Intel Core i7,Nvidia GeForce,2445.0
+Lenovo,Notebook,15.6,16,Windows 10,2.5,1920,1080,False,Unknown,512,0,2.9,Intel Core i7,Nvidia Quadro,2449.0
+Asus,Gaming,17.3,8,Windows 10,3.2,1920,1080,False,Unknown,256,1000,3.2,AMD,AMD,1695.0
+HP,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,347.0
+Google,Ultrabook,12.3,16,Chrome OS,1.1,2400,1600,True,Unknown,512,0,1.3,Intel Core i7,Intel HD Graphics,2199.0
+Lenovo,Ultrabook,14.0,24,Windows 10,1.32,2560,1440,False,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,2382.0
+Asus,Notebook,15.6,4,Linux,2.0,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,559.0
+Lenovo,Notebook,17.3,8,Windows 10,2.8,1600,900,False,Unknown,0,1000,2.5,AMD,AMD,519.0
+Dell,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,AMD,749.0
+Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1429.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,128,0,1.1,Intel Other,Intel HD Graphics,349.0
+HP,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1099.0
+Dell,Notebook,14.0,8,Windows 10,1.64,1920,1080,False,Unknown,256,0,2.8,Intel Core i5,Nvidia GeForce,1179.0
+Acer,Notebook,15.6,4,Linux,2.4,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,441.8
+Dell,Workstation,15.6,8,Windows 10,2.23,1920,1080,False,Unknown,64,1000,3.0,Intel Other,Nvidia Quadro,1993.0
+MSI,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GTX,1027.74
+Microsoft,Ultrabook,13.5,16,Windows 10 S,1.25,2256,1504,True,Unknown,512,0,2.5,Intel Core i7,Intel Iris,2589.0
+HP,Notebook,15.6,8,Windows 10,1.91,1366,768,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,589.0
+Dell,Workstation,15.6,16,Windows 10,2.17,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Nvidia Quadro,1975.0
+HP,Workstation,15.6,8,Windows 10,2.31,1920,1080,False,IPS Panel,512,0,2.9,Intel Core i7,Intel HD Graphics,1534.0
+Lenovo,Notebook,14.0,8,Windows 10,1.65,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1345.0
+Dell,Notebook,15.6,8,Windows 10,2.36,1920,1080,False,Unknown,128,1000,1.8,Intel Core i7,AMD,979.0
+Dell,2 in 1 Convertible,11.6,4,Windows 10,1.47,1366,768,True,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,479.0
+Dell,Notebook,17.3,8,Windows 10,4.42,1920,1080,False,IPS Panel,0,1000,2.7,Intel Core i7,Nvidia GTX,2046.0
+Microsoft,Ultrabook,13.5,4,Windows 10 S,1.252,2256,1504,True,Unknown,128,0,2.2,Intel Other,Intel HD Graphics,989.0
+Microsoft,Ultrabook,13.5,8,Windows 10 S,1.25,2256,1504,True,Unknown,256,0,2.5,Intel Core i7,Intel Iris,1799.0
+HP,Notebook,17.3,8,Windows 10,2.5,1600,900,False,Unknown,256,0,2.0,Intel Core i3,Intel HD Graphics,639.9
+Acer,Notebook,15.6,4,Windows 10,2.23,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,Nvidia GeForce,544.0
+Acer,Netbook,11.6,4,Windows 10,1.4,1366,768,False,Unknown,128,0,1.6,Intel Other,Intel HD Graphics,435.0
+Asus,Notebook,15.6,8,Windows 10,2.37,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,749.0
+Lenovo,Notebook,14.0,8,No OS,1.5,1920,1080,False,IPS Panel,512,0,2.7,Intel Core i7,AMD,799.0
+Lenovo,Notebook,15.6,8,Windows 10,2.67,1920,1080,False,Unknown,256,0,2.9,Intel Core i7,Nvidia Quadro,2090.0
+Asus,Notebook,15.6,4,Windows 10,2.0,1366,768,False,Unknown,0,500,1.1,Intel Other,Intel HD Graphics,304.0
+Acer,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Nvidia GTX,469.0
+Dell,Notebook,15.6,8,Windows 10,2.02,1920,1080,False,Unknown,0,2000,1.6,Intel Core i5,AMD,759.0
+HP,Gaming,17.3,12,Windows 10,3.78,1920,1080,False,IPS Panel,0,1000,2.8,Intel Core i7,Nvidia GTX,1699.0
+Lenovo,Ultrabook,14.0,12,Windows 10,1.4,2560,1440,False,IPS Panel,256,0,2.6,Intel Core i7,Intel HD Graphics,1858.0
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,3840,2160,True,IPS Panel,512,0,1.8,Intel Core i7,Intel HD Graphics,1999.0
+HP,Notebook,15.6,8,Windows 10,1.9,1920,1080,False,Unknown,0,500,2.5,Intel Core i5,AMD,1154.0
+Google,Ultrabook,12.3,8,Chrome OS,1.1,2400,1600,True,Unknown,128,0,1.2,Intel Core i5,Intel HD Graphics,1275.0
+Dell,Ultrabook,13.3,8,Windows 10,1.42,1920,1080,True,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,1841.85
+Asus,Notebook,15.6,12,Windows 10,2.06,3840,2160,False,IPS Panel,128,1000,2.6,Intel Core i7,Intel HD Graphics,1299.0
+Dell,Notebook,14.0,8,Windows 10,1.79,1366,768,False,Unknown,128,0,2.3,Intel Core i3,Intel HD Graphics,740.0
+Dell,Workstation,15.6,8,Windows 10,1.78,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia Quadro,2408.0
+Lenovo,Notebook,14.0,8,Windows 10,1.7,1920,1080,False,Unknown,180,0,2.5,Intel Core i5,Intel HD Graphics,1364.0
+Dell,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,0,1000,1.6,Intel Core i5,AMD,675.0
+Toshiba,Notebook,13.3,8,Windows 10,1.05,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1672.0
+Dell,Notebook,15.6,8,Windows 10,2.16,1920,1080,False,IPS Panel,512,0,1.8,Intel Core i7,Nvidia GeForce,1262.0
+Dell,Notebook,15.6,4,Windows 10,2.18,1366,768,False,Unknown,0,1000,2.4,Intel Core i3,Intel HD Graphics,586.6
+HP,Notebook,13.3,4,Windows 10,1.49,1920,1080,False,IPS Panel,128,0,1.6,Intel Core i5,Intel HD Graphics,726.0
+Chuwi,Notebook,15.6,4,Windows 10,1.89,1920,1080,False,Unknown,64,0,1.44,Intel Other,Intel HD Graphics,248.9
+Lenovo,Notebook,15.6,4,Windows 10,2.3,1366,768,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,565.0
+Lenovo,Notebook,14.0,8,Windows 10,1.75,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,1049.0
+Dell,Workstation,15.6,16,Windows 10,2.17,1920,1080,False,IPS Panel,512,0,2.7,Intel Core i7,Nvidia Quadro,2338.0
+Dell,Notebook,15.6,16,Windows 10,2.06,1920,1080,False,Unknown,512,0,2.8,Intel Core i7,Nvidia GTX,1899.0
+Lenovo,Ultrabook,12.5,16,Windows 10,1.36,1920,1080,False,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,1798.0
+Asus,Ultrabook,12.5,16,Windows 10,0.91,1920,1080,False,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,1950.0
+Lenovo,Notebook,15.6,8,Windows 10,2.3,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Nvidia GeForce,1011.99
+Toshiba,Ultrabook,13.3,32,Windows 10,1.05,1920,1080,True,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,2799.0
+Asus,Gaming,15.6,8,Windows 10,1.99,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1350.0
+Acer,Notebook,15.6,8,Windows 10,2.2,1366,768,False,Unknown,0,1000,2.5,AMD,AMD,579.0
+Asus,Gaming,17.3,24,Windows 10,4.33,1920,1080,True,IPS Panel,256,1000,2.6,Intel Core i7,Nvidia GTX,1269.0
+Lenovo,Ultrabook,12.5,8,Windows 10,1.3,1366,768,False,IPS Panel,180,0,2.3,Intel Core i5,Intel HD Graphics,1099.0
+Lenovo,Notebook,15.6,8,Windows 10,2.17,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,Intel HD Graphics,898.9
+HP,Notebook,14.0,8,Windows 10,1.48,1920,1080,False,Unknown,1000,0,2.8,Intel Core i7,Intel HD Graphics,1749.0
+Lenovo,Notebook,13.3,8,Windows 10,1.4,1920,1080,False,IPS Panel,256,0,2.4,Intel Core i3,Intel HD Graphics,949.0
+Lenovo,Notebook,15.6,8,Windows 10,2.3,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,911.0
+Asus,Netbook,11.6,4,Windows 10 S,1.2,1366,768,False,Unknown,64,0,1.1,Intel Other,Intel HD Graphics,340.0
+HP,Notebook,15.6,8,Windows 10,1.91,1366,768,False,Unknown,256,0,2.5,Intel Core i5,AMD,618.99
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.4,1920,1080,True,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,1599.0
+Lenovo,Notebook,14.0,4,Windows 10,2.1,1366,768,False,Unknown,0,500,1.1,Intel Other,Intel HD Graphics,299.0
+Lenovo,Netbook,11.6,4,Chrome OS,1.25,1366,768,False,Unknown,16,0,1.6,Intel Other,Intel HD Graphics,265.0
+Lenovo,Notebook,13.3,8,Windows 10,1.44,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,949.0
+Asus,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,Unknown,256,1000,2.7,Intel Core i7,Intel HD Graphics,1224.0
+Acer,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,IPS Panel,0,1000,1.6,Intel Core i5,Nvidia GeForce,613.0
+HP,Ultrabook,13.3,8,Windows 10,1.34,1920,1080,False,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,1323.0
+Lenovo,Gaming,15.6,8,No OS,2.4,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1149.0
+Dell,Ultrabook,13.3,8,Windows 10,1.29,1920,1080,True,IPS Panel,128,0,2.5,Intel Core i5,Intel HD Graphics,899.0
+Acer,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,0,500,2.7,Intel Core i7,Nvidia GeForce,639.0
+Dell,Notebook,15.6,8,Windows 10,2.18,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,836.0
+Dell,Notebook,15.6,16,Windows 10,2.2,1920,1080,False,Unknown,256,2000,1.8,Intel Core i7,AMD,1219.24
+Xiaomi,Notebook,15.6,16,No OS,1.95,1920,1080,False,IPS Panel,256,0,1.8,Intel Core i7,Nvidia GeForce,1399.95
+Asus,Netbook,11.6,2,Windows 10,1.1,1366,768,False,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,245.0
+HP,Notebook,15.6,4,Windows 10,2.04,1366,768,True,Unknown,0,1000,1.6,Intel Core i5,Intel HD Graphics,521.47
+Asus,Gaming,15.6,24,Windows 10,2.24,1920,1080,False,Unknown,512,0,2.8,Intel Core i7,Nvidia GTX,2968.0
+HP,Notebook,15.6,8,Windows 10,2.04,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GeForce,889.0
+Asus,Gaming,17.3,16,Windows 10,3.0,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1504.0
+Lenovo,Gaming,15.6,8,Windows 10,3.2,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1399.0
+HP,Ultrabook,13.3,8,Windows 10,1.32,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1399.0
+Dell,Notebook,14.0,8,Windows 10,1.64,1920,1080,False,Unknown,256,0,2.6,Intel Core i5,Intel HD Graphics,1279.73
+HP,Notebook,15.6,4,Windows 10,1.63,1366,768,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,689.0
+Dell,Notebook,17.3,8,Linux,2.8,1920,1080,False,IPS Panel,128,1000,1.6,Intel Core i5,AMD,889.0
+Lenovo,Notebook,14.0,8,Windows 7,2.02,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1340.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,Nvidia GeForce,799.0
+Lenovo,Notebook,15.6,8,No OS,2.2,1366,768,False,Unknown,0,2000,2.0,Intel Core i3,Nvidia GeForce,459.0
+Dell,Notebook,15.6,4,Windows 10,2.3,1920,1080,False,Unknown,0,500,2.5,Intel Core i5,AMD,585.0
+Dell,Notebook,15.6,8,Windows 10,1.9,1920,1080,False,Unknown,256,0,2.8,Intel Core i5,Intel HD Graphics,1377.0
+Dell,Gaming,17.3,16,Windows 10,4.42,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,3012.77
+Toshiba,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,IPS Panel,0,500,2.5,Intel Core i5,Intel HD Graphics,860.0
+Asus,Notebook,15.6,8,Windows 10,2.0,3840,2160,False,IPS Panel,256,1000,2.7,Intel Core i7,Nvidia GTX,1299.0
+Mediacom,Notebook,13.3,4,Windows 10,1.2,1920,1080,False,IPS Panel,32,0,1.1,Intel Other,Intel HD Graphics,369.0
+Asus,Gaming,15.6,8,Windows 10,2.3,1920,1080,False,IPS Panel,128,1000,2.5,Intel Core i5,Nvidia GTX,1649.0
+Dell,Notebook,15.6,8,Windows 10,1.93,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia GeForce,1369.0
+Dell,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,AMD,797.41
+HP,Notebook,15.6,4,Windows 10,1.86,1920,1080,False,Unknown,256,0,1.6,Intel Other,Intel HD Graphics,398.99
+HP,Gaming,17.3,12,Windows 10,2.62,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,1799.0
+Lenovo,Notebook,14.0,8,Windows 10,1.87,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Nvidia GeForce,859.0
+Dell,Ultrabook,13.3,8,Windows 10,1.2,3200,1800,True,Unknown,256,0,1.8,Intel Core i7,Intel HD Graphics,1399.0
+Dell,Notebook,14.0,4,Windows 10,1.6,1920,1080,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,735.87
+HP,Ultrabook,13.3,8,Windows 10,1.34,3200,1800,False,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1145.0
+Acer,Gaming,15.6,8,Linux,2.4,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GTX,798.0
+Asus,Notebook,15.6,4,Windows 10,2.0,1366,768,False,Unknown,0,500,1.8,AMD,AMD,349.0
+HP,Notebook,15.6,4,Windows 10,2.1,1920,1080,False,Unknown,128,0,2.4,Intel Core i3,Intel HD Graphics,705.5
+Lenovo,Notebook,14.0,4,Windows 10,1.87,1920,1080,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,785.0
+Lenovo,Notebook,15.6,4,No OS,2.15,1920,1080,False,Unknown,0,1000,2.3,Intel Core i5,Intel HD Graphics,462.35
+HP,Notebook,15.6,4,Windows 10,1.86,1920,1080,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,397.0
+Lenovo,Notebook,15.6,8,Windows 10,1.99,1920,1080,False,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,1729.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,499.0
+Dell,Notebook,15.6,8,Windows 10,1.9,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1116.99
+Dell,Gaming,17.3,16,Windows 10,4.42,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,2699.0
+HP,Notebook,17.3,8,Windows 10,2.65,1600,900,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,544.15
+HP,Notebook,17.3,8,Windows 10,2.63,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,Nvidia GeForce,1280.0
+Asus,Notebook,15.6,4,Linux,2.0,1366,768,False,Unknown,0,500,1.1,Intel Other,Intel HD Graphics,224.0
+Mediacom,Notebook,13.3,4,Windows 10,1.35,1920,1080,False,IPS Panel,32,0,1.44,Intel Other,Intel HD Graphics,255.0
+Lenovo,Notebook,17.3,6,Windows 10,2.8,1600,900,False,Unknown,128,1000,2.7,Intel Core i7,Nvidia GeForce,949.0
+HP,Notebook,15.6,6,Windows 10,1.91,1920,1080,False,IPS Panel,128,0,2.5,AMD,AMD,568.9
+Dell,Notebook,15.6,4,Windows 10,2.18,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,AMD,617.9
+Acer,2 in 1 Convertible,11.6,4,Windows 10,1.25,1920,1080,True,IPS Panel,32,0,2.0,Intel Other,Intel HD Graphics,349.0
+Lenovo,Notebook,15.6,4,Windows 10,2.05,1920,1080,False,Unknown,128,0,2.7,Intel Core i3,Intel HD Graphics,630.0
+HP,Ultrabook,13.3,16,Windows 10,1.16,3200,1800,True,IPS Panel,512,0,1.2,Intel Other,Intel HD Graphics,1965.0
+Lenovo,Notebook,17.3,8,Windows 10,3.4,1920,1080,False,IPS Panel,256,0,2.8,Intel Core i7,Nvidia Quadro,2999.0
+Asus,Notebook,15.6,8,Windows 10,2.5,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GTX,839.0
+Dell,Ultrabook,13.3,8,Windows 10,1.21,3840,2160,True,IPS Panel,128,0,1.6,Intel Core i5,Intel HD Graphics,1599.0
+Dell,Notebook,15.6,4,Windows 10,1.93,1366,768,False,Unknown,0,500,2.6,Intel Core i5,Intel HD Graphics,959.0
+Fujitsu,Notebook,15.6,8,Windows 10,2.2,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,739.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,0,500,1.1,Intel Other,Intel HD Graphics,344.0
+Lenovo,Notebook,14.0,4,Windows 10,2.02,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,990.0
+HP,Workstation,17.3,8,Windows 10,3.14,1600,900,False,Unknown,0,500,2.8,Intel Core i5,Nvidia Quadro,1860.99
+HP,Notebook,14.0,8,Windows 10,1.94,1366,768,False,Unknown,0,2000,1.6,Intel Other,Intel HD Graphics,389.0
+HP,Notebook,15.6,6,Windows 10,1.95,1920,1080,False,IPS Panel,256,0,3.0,AMD,AMD,649.0
+Lenovo,Notebook,15.6,8,Windows 10,2.3,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,830.0
+Lenovo,Notebook,15.6,4,Windows 10,2.05,1920,1080,False,Unknown,0,500,1.6,Intel Core i5,Intel HD Graphics,685.0
+Mediacom,Notebook,14.0,4,Windows 10,1.4,1920,1080,False,Unknown,32,0,1.44,Intel Other,Intel HD Graphics,249.0
+Toshiba,Ultrabook,14.0,16,Windows 10,1.24,1920,1080,True,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,1865.0
+Lenovo,Gaming,17.3,32,Windows 10,4.6,1920,1080,False,IPS Panel,256,1000,2.7,Intel Core i7,Nvidia GTX,2663.0
+MSI,Gaming,17.3,16,Windows 10,4.14,1920,1080,False,Unknown,512,1000,2.9,Intel Core i7,Nvidia GTX,2729.0
+Dell,Notebook,15.6,8,Linux,2.2,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,AMD,749.01
+Mediacom,Notebook,14.0,4,Windows 10,1.45,1920,1080,False,IPS Panel,32,0,1.1,Intel Other,Intel HD Graphics,389.0
+Dell,Notebook,15.6,8,Windows 10,1.9,1366,768,False,Unknown,0,500,2.6,Intel Core i5,Intel HD Graphics,1008.52
+HP,Notebook,13.3,4,Windows 10,1.49,1920,1080,False,Unknown,128,0,2.4,Intel Core i3,Intel HD Graphics,719.0
+Dell,Notebook,15.6,16,Windows 10,1.93,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia GeForce,1537.39
+Dell,Netbook,11.6,4,Chrome OS,1.26,1366,768,False,Unknown,16,0,1.6,Intel Other,Intel HD Graphics,295.0
+MSI,Gaming,17.3,16,Windows 10,4.5,1920,1080,False,Unknown,128,1000,2.7,Intel Core i7,Nvidia GTX,2349.0
+HP,Gaming,17.3,16,Windows 10,3.78,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1498.0
+Lenovo,Ultrabook,14.0,12,Windows 10,1.4,1920,1080,False,IPS Panel,256,0,2.6,Intel Core i7,Intel HD Graphics,1673.0
+Lenovo,Notebook,15.6,12,Windows 10,2.2,1366,768,True,Unknown,0,1000,1.8,Intel Core i7,Intel HD Graphics,609.0
+Asus,Gaming,17.3,8,Windows 10,2.73,1920,1080,False,IPS Panel,128,1000,2.5,Intel Core i5,Nvidia GTX,1770.0
+Asus,2 in 1 Convertible,15.6,8,Windows 10,2.2,1366,768,True,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,739.0
+Lenovo,Notebook,15.6,12,Windows 10,2.2,1920,1080,False,Unknown,512,0,3.6,AMD,AMD,949.0
+Dell,2 in 1 Convertible,11.6,4,Windows 10,1.39,1366,768,True,Unknown,128,0,1.0,Intel Other,Intel HD Graphics,603.0
+Samsung,Notebook,15.6,16,Windows 10,2.5,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1699.0
+Lenovo,Notebook,17.3,4,No OS,2.8,1920,1080,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,529.0
+Lenovo,Notebook,15.6,8,Windows 10,2.29,1366,768,False,Unknown,0,1000,2.3,Intel Core i3,Intel HD Graphics,459.0
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1920,1080,True,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,2025.0
+Lenovo,Notebook,14.0,8,Windows 10,1.7,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1474.0
+Dell,2 in 1 Convertible,12.5,8,Windows 10,1.34,1920,1080,True,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1670.0
+Dell,Workstation,15.6,8,Windows 10,2.06,1920,1080,True,Unknown,256,0,2.8,Intel Core i7,Nvidia Quadro,1763.0
+HP,Notebook,15.6,8,Windows 10,1.84,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1219.0
+HP,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,2.4,Intel Core i3,Intel HD Graphics,668.48
+Acer,Notebook,14.0,4,Windows 10,1.6,1920,1080,False,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,329.0
+MSI,Gaming,17.3,16,Windows 10,4.14,1920,1080,False,Unknown,128,1000,2.7,Intel Core i7,Nvidia GTX,2199.0
+Dell,Notebook,15.6,4,Linux,2.18,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,AMD,465.0
+MSI,Gaming,15.6,16,Windows 10,1.8,3840,2160,False,Unknown,256,2000,2.8,Intel Core i7,Nvidia GTX,2299.0
+Toshiba,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i7,Intel HD Graphics,1399.0
+Lenovo,Notebook,15.6,6,Windows 10,2.4,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,564.0
+Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,1920,1080,True,IPS Panel,256,0,2.8,Intel Core i7,Intel HD Graphics,1299.0
+Acer,Notebook,14.0,4,Windows 10,1.6,1366,768,False,Unknown,128,0,1.6,Intel Other,Intel HD Graphics,349.0
+Lenovo,Notebook,15.6,32,Windows 10,2.5,3840,2160,False,IPS Panel,1000,0,3.1,Intel Other,Nvidia Quadro,4899.0
+Dell,Gaming,15.6,16,Windows 10,2.59,1920,1080,False,Unknown,0,1000,2.6,Intel Core i7,Nvidia GTX,879.01
+Dell,Notebook,15.6,4,Linux,2.18,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,443.9
+Dell,Notebook,15.6,4,Linux,2.25,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,359.0
+Dell,Notebook,15.6,4,Linux,1.93,1366,768,False,Unknown,0,500,2.6,Intel Core i5,Intel HD Graphics,869.0
+Asus,Gaming,17.3,8,Windows 10,3.0,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1168.0
+Dell,Notebook,15.6,4,Linux,2.18,1920,1080,False,Unknown,128,0,2.5,Intel Core i5,AMD,569.0
+HP,Ultrabook,15.6,8,Windows 10,1.84,1920,1080,False,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,1389.0
+MSI,Gaming,15.6,16,Windows 10,2.94,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2267.86
+Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.25,1366,768,True,IPS Panel,32,0,1.6,Intel Other,Intel HD Graphics,379.0
+HP,Notebook,14.0,8,Windows 10,2.31,1366,768,False,Unknown,256,0,2.6,Intel Core i5,Intel HD Graphics,1124.0
+Lenovo,Notebook,14.0,8,Windows 7,1.65,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1465.0
+Dell,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,0,1000,1.6,Intel Core i5,AMD,776.0
+Fujitsu,Notebook,15.6,8,Windows 10,2.2,1366,768,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,799.0
+HP,Notebook,15.6,4,Windows 7,1.88,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,932.0
+Lenovo,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,Nvidia GeForce,899.0
+Mediacom,Notebook,14.0,2,Windows 10,1.4,1920,1080,False,Unknown,32,0,1.44,Intel Other,Intel HD Graphics,239.0
+Lenovo,Notebook,15.6,4,No OS,2.2,1920,1080,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,468.0
+Asus,2 in 1 Convertible,13.3,6,Windows 10,1.5,1920,1080,True,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,639.01
+Dell,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia GTX,1820.0
+Asus,Ultrabook,14.0,16,Windows 10,1.1,1920,1080,False,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,1900.0
+Dell,Gaming,15.6,16,Windows 10,2.62,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1479.0
+Lenovo,Notebook,15.6,4,Windows 10,1.8,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,829.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,Nvidia GeForce,579.0
+Asus,Notebook,15.6,8,Windows 10,2.0,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,399.0
+Asus,Notebook,15.6,8,Windows 10,1.99,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GTX,906.62
+Dell,Ultrabook,13.3,8,Windows 10,1.23,3200,1800,True,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,1869.0
+Lenovo,Notebook,14.0,2,Windows 10,1.42,1366,768,False,Unknown,32,0,1.6,Intel Other,Intel HD Graphics,249.0
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1920,1080,True,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1757.42
+Dell,Notebook,15.6,16,Windows 10,2.06,3840,2160,True,Unknown,1000,0,2.8,Intel Core i7,Nvidia GTX,2399.0
+Lenovo,Gaming,15.6,8,Windows 10,2.5,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1109.0
+HP,Notebook,17.0,8,Windows 10,2.6,1600,900,False,Unknown,0,1000,3.0,AMD,AMD,520.9
+Lenovo,Ultrabook,14.0,16,Windows 10,1.14,1920,1080,False,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,2450.0
+Asus,Gaming,15.6,8,No OS,2.5,1920,1080,False,IPS Panel,0,1000,2.8,Intel Core i7,Nvidia GTX,1169.0
+Acer,Notebook,15.6,4,Windows 10,2.4,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,450.0
+Lenovo,Notebook,14.0,4,Windows 10,1.43,1366,768,False,Unknown,32,0,1.6,Intel Other,Intel HD Graphics,274.0
+Acer,Ultrabook,14.0,8,Windows 10,1.8,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,919.0
+Razer,Gaming,14.0,16,Windows 10,1.95,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia GTX,2599.0
+Toshiba,Notebook,13.3,8,Windows 10,1.2,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1213.0
+Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1584.0
+Asus,Gaming,17.3,32,Windows 10,3.8,1920,1080,False,IPS Panel,512,0,2.7,Intel Core i7,Nvidia GTX,2799.0
+Acer,Gaming,15.6,8,Linux,2.4,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GTX,709.0
+Dell,Ultrabook,13.3,8,Windows 10,1.2,1920,1080,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,1449.9
+MSI,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1191.8
+HP,Notebook,15.6,4,No OS,1.86,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,364.9
+Toshiba,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,IPS Panel,0,500,2.5,Intel Core i5,Intel HD Graphics,1064.0
+Dell,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,256,0,1.8,Intel Core i7,AMD,919.0
+Dell,Notebook,15.6,16,Windows 10,2.2,1920,1080,False,Unknown,256,2000,1.8,Intel Core i7,AMD,1135.0
+Lenovo,Gaming,15.6,8,Windows 10,3.31,1920,1080,False,IPS Panel,128,1000,2.6,Intel Core i7,Nvidia GTX,1196.0
+Dell,Gaming,17.3,32,Windows 10,4.42,3840,2160,False,IPS Panel,512,1000,2.8,Intel Core i7,Nvidia GTX,3147.37
+Dell,Notebook,14.0,8,Windows 10,1.56,1920,1080,False,Unknown,256,0,2.4,Intel Core i5,Intel HD Graphics,1229.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,0,500,1.1,Intel Other,Intel HD Graphics,419.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,535.0
+HP,Notebook,15.6,6,Windows 10,2.04,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,AMD,539.0
+MSI,Gaming,17.3,8,Windows 10,2.7,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1486.77
+Toshiba,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,128,0,2.1,Intel Core i3,Intel HD Graphics,498.0
+Dell,Notebook,15.6,8,Windows 10,2.06,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,955.0
+HP,Notebook,15.6,8,Windows 10,2.1,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,AMD,745.0
+Toshiba,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1258.0
+Acer,Notebook,15.6,4,Linux,2.1,1366,768,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,412.0
+Microsoft,Ultrabook,13.5,8,Windows 10 S,1.252,2256,1504,True,Unknown,256,0,2.8,Intel Core i7,Intel Iris,1867.85
+Lenovo,Notebook,15.6,8,Windows 10,1.9,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,AMD,817.95
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,1920,1080,True,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1034.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,128,0,2.2,AMD,AMD,349.0
+HP,2 in 1 Convertible,14.0,4,Windows 10,1.63,1920,1080,True,IPS Panel,128,0,2.4,Intel Core i3,Nvidia GeForce,699.0
+MSI,Gaming,15.6,16,Windows 10,2.4,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1294.0
+Asus,Ultrabook,14.0,8,Windows 10,1.1,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1135.0
+HP,2 in 1 Convertible,11.6,8,Chrome OS,1.4,1366,768,True,Unknown,64,0,1.1,Intel Other,Intel HD Graphics,495.0
+LG,Ultrabook,15.6,8,Windows 10,1.09,1920,1080,False,IPS Panel,512,0,1.8,Intel Core i7,Intel HD Graphics,2299.0
+Acer,Gaming,15.6,16,Windows 10,2.5,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GTX,1299.0
+MSI,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GTX,997.9
+Asus,Notebook,15.6,4,Windows 10,1.86,1366,768,False,Unknown,128,0,1.1,Intel Other,Intel HD Graphics,419.0
+Dell,Gaming,15.6,16,Windows 10,3.21,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GTX,2051.0
+HP,Notebook,17.3,4,Windows 10,2.5,1920,1080,False,IPS Panel,256,0,2.0,Intel Core i3,AMD,699.0
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.19,1920,1080,True,IPS Panel,512,0,1.8,Intel Core i7,Intel HD Graphics,1499.0
+Dell,Gaming,15.6,16,Windows 10,3.49,1920,1080,False,Unknown,256,1000,2.9,Intel Core i7,Nvidia GTX,2813.75
+HP,Notebook,15.6,4,Windows 10,1.86,1366,768,False,Unknown,0,500,2.5,Intel Core i5,AMD,612.61
+Dell,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,AMD,545.67
+HP,Notebook,17.3,6,Windows 10,2.65,1920,1080,False,IPS Panel,0,2000,2.4,AMD,AMD,569.0
+Lenovo,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,318.0
+Acer,Notebook,14.0,4,Chrome OS,1.45,1366,768,False,Unknown,32,0,1.6,Intel Other,Intel HD Graphics,375.0
+Lenovo,Notebook,14.0,4,Windows 10,1.7,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,699.0
+HP,Workstation,17.3,8,Windows 10,3.14,1920,1080,False,Unknown,0,500,2.8,Intel Core i7,Nvidia Quadro,1907.99
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.42,2560,1440,True,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,2590.0
+Toshiba,Notebook,13.3,8,Windows 10,1.5,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,973.0
+Acer,Netbook,11.6,4,Windows 10,1.4,1366,768,False,Unknown,32,0,1.6,Intel Other,Intel HD Graphics,269.0
+Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.38,1920,1080,True,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,1749.0
+Asus,2 in 1 Convertible,12.5,4,Chrome OS,1.2,1920,1080,True,Unknown,64,0,0.9,Intel Other,Intel HD Graphics,669.0
+Toshiba,Ultrabook,13.3,16,Windows 10,1.36,1920,1080,True,Unknown,512,0,2.5,Intel Core i7,Intel HD Graphics,1877.0
+HP,Notebook,15.6,4,Windows 10,2.1,1920,1080,False,IPS Panel,0,500,2.7,Intel Core i7,AMD,689.0
+Dell,Gaming,15.6,8,Windows 10,2.56,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GTX,819.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,256,0,2.9,AMD,AMD,399.0
+Lenovo,Notebook,15.6,8,Windows 10,2.2,1366,768,False,Unknown,0,1000,3.6,AMD,AMD,429.0
+Lenovo,Notebook,15.6,4,Windows 10,2.1,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,621.45
+Lenovo,Notebook,15.6,4,No OS,1.9,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,450.0
+Dell,Notebook,15.6,8,Windows 10,2.18,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,795.0
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,1920,1080,True,IPS Panel,256,0,1.6,Intel Core i5,Intel HD Graphics,999.0
+Lenovo,Workstation,15.6,16,Windows 7,2.18,1920,1080,False,Unknown,512,0,2.5,Intel Core i7,Nvidia Quadro,1855.0
+Lenovo,Notebook,14.0,8,Windows 10,1.8,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1191.0
+HP,Notebook,17.3,6,Windows 10,2.71,1920,1080,False,IPS Panel,0,2000,2.5,AMD,AMD,655.01
+Lenovo,Gaming,15.6,8,Windows 10,2.5,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1249.0
+Dell,Notebook,14.0,8,Linux,1.64,1920,1080,False,Unknown,256,0,2.8,Intel Core i5,Nvidia GeForce,1089.0
+Dell,Notebook,15.6,8,Linux,1.98,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,726.0
+Asus,Notebook,14.0,4,Windows 10,1.5,1920,1080,False,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,298.0
+Dell,Notebook,15.6,16,Windows 10,1.93,1920,1080,False,Unknown,512,0,2.6,Intel Core i5,Intel HD Graphics,1426.66
+Lenovo,Notebook,14.0,8,Windows 10,1.87,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Nvidia GeForce,857.07
+Dell,Notebook,15.6,8,Windows 10,1.9,1920,1080,False,Unknown,256,0,2.6,Intel Core i5,Intel HD Graphics,1179.0
+Lenovo,Notebook,15.6,4,Windows 10,2.19,1366,768,False,Unknown,0,500,2.0,AMD,AMD,298.0
+Mediacom,Notebook,14.0,4,Windows 10,1.4,1920,1200,False,IPS Panel,0,32,1.92,Intel Other,Intel HD Graphics,265.0
+HP,Notebook,17.3,8,Windows 10,2.63,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Nvidia GeForce,1200.0
+Lenovo,Ultrabook,14.0,8,Windows 10,1.17,2560,1440,False,IPS Panel,512,0,2.5,Intel Core i7,Intel HD Graphics,1686.64
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.58,1366,768,True,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,836.6
+Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1499.0
+Dell,Gaming,17.3,32,Windows 10,4.36,3840,2160,False,Unknown,1000,1000,2.8,Intel Core i7,Nvidia GTX,3659.4
+MSI,Gaming,17.3,8,Windows 10,2.7,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1348.48
+Lenovo,Notebook,15.6,4,No OS,1.9,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,489.9
+Dell,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,128,1000,1.6,Intel Core i5,AMD,719.0
+Dell,2 in 1 Convertible,13.3,4,Windows 10,1.71,1920,1080,True,Unknown,0,1000,2.4,Intel Core i3,Intel HD Graphics,649.0
+Dell,Notebook,15.6,8,Linux,2.32,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,AMD,589.52
+HP,Notebook,15.6,4,Windows 10,2.1,1920,1080,False,Unknown,0,1000,3.0,AMD,AMD,489.0
+Acer,Gaming,17.3,16,Windows 10,4.2,1920,1080,False,IPS Panel,128,1000,2.6,Intel Core i7,Nvidia GTX,1935.0
+Dell,Notebook,15.6,12,Windows 10,2.25,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,649.0
+HP,Notebook,15.6,6,Windows 10,2.1,1920,1080,False,Unknown,128,1000,3.0,AMD,AMD,650.0
+Acer,Notebook,15.6,4,Windows 10,2.4,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,559.0
+Lenovo,Notebook,13.3,8,Windows 10,1.44,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,960.0
+Lenovo,Notebook,15.6,4,Windows 10,1.85,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,Intel HD Graphics,779.0
+HP,Workstation,15.6,16,Windows 10,2.6,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia Quadro,2419.0
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.55,1920,1080,True,Unknown,0,1000,1.6,Intel Core i5,Intel HD Graphics,659.0
+MSI,Gaming,15.6,16,Windows 10,1.8,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2094.48
+Acer,Notebook,15.6,4,Windows 10,2.4,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,410.8
+Dell,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,Unknown,128,1000,2.7,Intel Core i7,Nvidia GeForce,1207.0
+Dell,Notebook,15.6,8,Windows 10,2.0,1366,768,False,Unknown,256,0,2.0,Intel Core i3,Intel HD Graphics,665.0
+Toshiba,Notebook,14.0,8,Windows 10,1.25,1920,1080,True,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1535.0
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.7,1920,1080,True,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,999.0
+Lenovo,Workstation,15.6,16,Windows 10,2.5,3840,2160,False,IPS Panel,1000,0,2.8,Intel Core i7,Nvidia Quadro,3299.0
+Acer,Notebook,14.0,2,Chrome OS,1.68,1366,768,False,Unknown,32,0,1.6,Intel Other,Intel HD Graphics,330.0
+Samsung,Ultrabook,13.3,16,Windows 10,0.81,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1649.0
+HP,Notebook,15.6,8,Windows 10,1.86,1920,1080,False,Unknown,256,0,2.0,Intel Core i3,Intel HD Graphics,539.0
+Dell,Notebook,14.0,8,Windows 10,1.6,1366,768,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1126.71
+HP,Workstation,17.3,16,Windows 7,3.0,1920,1080,False,IPS Panel,256,0,2.9,Intel Other,Nvidia Quadro,4389.0
+Lenovo,Netbook,11.6,4,Windows 10,1.4,1366,768,True,Unknown,128,0,1.6,Intel Other,Intel HD Graphics,475.0
+HP,Notebook,15.6,8,Windows 10,1.84,1920,1080,False,Unknown,256,0,2.4,Intel Core i5,Intel HD Graphics,1900.0
+Asus,Notebook,15.6,4,No OS,2.45,1366,768,False,Unknown,0,1000,2.3,Intel Core i5,Nvidia GTX,579.0
+Lenovo,Ultrabook,14.0,4,Windows 10,1.7,1920,1080,False,Unknown,180,0,2.3,Intel Core i5,Intel HD Graphics,1096.0
+Asus,Notebook,15.6,4,Windows 10,2.37,1366,768,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,849.9
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,3200,1800,True,IPS Panel,256,0,1.8,Intel Core i5,Intel HD Graphics,1199.0
+HP,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,IPS Panel,128,1000,2.5,Intel Core i5,Nvidia GTX,1099.0
+HP,Workstation,15.6,8,Windows 7,2.59,1920,1080,False,Unknown,256,0,2.6,Intel Core i7,Nvidia Quadro,1561.0
+Dell,Gaming,15.6,16,Windows 10,4.42,3840,2160,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,2868.99
+Acer,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,599.0
+Lenovo,Gaming,15.6,8,Windows 10,2.5,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1048.0
+Dell,Ultrabook,12.5,16,Windows 10,1.18,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Intel HD Graphics,1859.0
+Google,Ultrabook,12.3,8,Chrome OS,1.1,2400,1600,True,Unknown,256,0,1.2,Intel Core i5,Intel HD Graphics,1559.0
+Asus,Ultrabook,13.3,8,Windows 10,1.2,3200,1800,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1129.0
+Dell,Notebook,13.3,4,Windows 10,1.65,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,849.0
+Acer,Notebook,13.3,4,Windows 10,1.6,1366,768,False,Unknown,128,0,2.3,Intel Core i5,Intel HD Graphics,655.0
+Asus,Notebook,17.3,4,Windows 10,2.8,1366,768,False,Unknown,0,1000,1.1,Intel Other,Nvidia GeForce,470.34
+Dell,Gaming,15.6,16,Windows 10,2.72,3840,2160,True,IPS Panel,128,1000,2.6,Intel Core i7,Nvidia GTX,1099.0
+Samsung,Ultrabook,13.3,8,Windows 10,1.31,1920,1080,True,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1599.0
+Acer,Notebook,15.6,4,Linux,2.1,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,298.0
+Dell,Notebook,15.6,16,Windows 10,2.3,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,AMD,1181.27
+Samsung,2 in 1 Convertible,15.0,16,Windows 10,1.71,1920,1080,True,Unknown,256,0,2.7,Intel Core i7,AMD,1799.0
+Toshiba,Notebook,14.0,4,Windows 10,1.75,1366,768,False,IPS Panel,128,0,2.3,Intel Core i5,Intel HD Graphics,1020.0
+Dell,Gaming,15.6,8,Windows 10,2.62,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,1099.0
+HP,Ultrabook,12.5,4,Windows 10,1.26,1366,768,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1244.0
+Asus,2 in 1 Convertible,15.6,12,Windows 10,2.3,1920,1080,True,Unknown,0,2000,2.7,Intel Core i7,Nvidia GeForce,839.0
+Lenovo,Notebook,15.6,16,Windows 7,2.5,3840,2160,False,Unknown,512,0,2.7,Intel Core i7,Nvidia Quadro,2370.0
+Acer,Notebook,14.0,4,Windows 10,1.8,1920,1080,False,IPS Panel,128,0,2.4,Intel Core i3,Intel HD Graphics,636.0
+Razer,Gaming,14.0,16,Windows 10,1.95,1920,1080,False,Unknown,512,0,2.8,Intel Core i7,Nvidia GTX,2899.0
+Asus,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,Unknown,128,0,1.1,Intel Other,Intel HD Graphics,581.9
+Dell,Gaming,17.3,32,Windows 10,4.42,1920,1080,False,IPS Panel,1000,1000,2.8,Intel Core i7,Nvidia GTX,3588.8
+Asus,Gaming,17.3,16,Windows 10,4.3,1920,1080,False,IPS Panel,256,1000,2.6,Intel Core i7,Nvidia GTX,2350.0
+Toshiba,Ultrabook,14.0,16,Windows 10,1.47,1920,1080,False,IPS Panel,512,0,2.6,Intel Core i7,Nvidia GeForce,1764.0
+Lenovo,Notebook,15.6,8,No OS,2.2,1366,768,False,Unknown,0,1000,1.6,Intel Other,Intel HD Graphics,329.0
+Lenovo,Ultrabook,14.0,16,Windows 10,1.7,1920,1080,False,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,2299.0
+MSI,Gaming,14.0,16,Windows 10,1.6,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1891.0
+MSI,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GTX,1089.0
+Lenovo,Gaming,15.6,4,Windows 10,2.4,1920,1080,False,IPS Panel,0,1000,2.8,Intel Core i7,Nvidia GTX,999.0
+Acer,Gaming,17.3,16,Windows 10,4.2,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,2299.0
+Dell,Gaming,15.6,8,Windows 10,2.62,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GTX,985.0
+Asus,Gaming,15.6,8,Windows 10,2.24,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1339.0
+Vero,Notebook,14.0,4,Windows 10,1.22,1920,1080,False,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,202.9
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1920,1080,True,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,1970.0
+Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.08,1920,1080,True,Unknown,256,0,2.5,Intel Core i5,AMD,959.0
+Apple,Ultrabook,12.0,8,Mac OS X,0.92,2304,1440,False,IPS Panel Retina Display,512,0,1.2,Intel Other,Intel HD Graphics,1165.0
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.42,2560,1440,True,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,2330.0
+Asus,Notebook,14.0,4,Windows 10,1.63,1366,768,False,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,299.0
+Dell,Notebook,15.6,8,Windows 10,1.95,1366,768,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,810.0
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,1920,1080,True,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1349.0
+Dell,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,Unknown,256,0,2.0,Intel Core i3,AMD,739.0
+HP,Workstation,15.6,8,Windows 10,3.14,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Nvidia Quadro,2064.9
+Asus,Notebook,15.6,8,Windows 10,2.37,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1099.0
+Dell,Ultrabook,13.3,8,Windows 10,1.29,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1499.0
+Dell,Notebook,15.6,8,Windows 10,2.06,3840,2160,True,Unknown,256,0,2.5,Intel Core i5,Nvidia GTX,1749.0
+Dell,Netbook,11.6,4,Windows 10,1.63,1366,768,False,Unknown,128,0,1.1,Intel Other,Intel HD Graphics,744.0
+HP,Netbook,12.5,8,Windows 10,1.26,1366,768,False,Unknown,256,0,2.6,Intel Core i5,Intel HD Graphics,1389.0
+Toshiba,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,780.0
+HP,Notebook,15.6,8,Windows 10,2.04,1366,768,False,Unknown,0,2000,2.5,AMD,AMD,629.0
+Dell,Gaming,15.6,16,Windows 10,2.62,3840,2160,False,Unknown,512,0,2.8,Intel Core i7,Nvidia GTX,1679.0
+Lenovo,Notebook,15.6,4,Windows 10,2.4,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GeForce,609.0
+HP,Gaming,17.3,12,Windows 10,3.74,1920,1080,False,IPS Panel,0,1000,2.8,Intel Core i7,AMD,1749.0
+MSI,Gaming,17.3,16,Windows 10,2.9,1920,1080,False,Unknown,512,1000,2.8,Intel Core i7,Nvidia GTX,2415.0
+Samsung,Ultrabook,13.3,8,Windows 10,0.81,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1499.0
+Dell,Notebook,15.6,8,Windows 10,1.98,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,Nvidia GeForce,961.0
+Dell,Notebook,15.6,8,Windows 10,2.18,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,AMD,789.81
+Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1859.0
+Razer,Ultrabook,12.5,16,Windows 10,1.29,3840,2160,True,IPS Panel,512,0,2.5,Intel Core i7,Intel HD Graphics,1799.0
+HP,Netbook,11.6,4,Chrome OS,1.23,1366,768,False,Unknown,16,0,1.6,Intel Other,Intel HD Graphics,385.0
+Dell,Gaming,17.3,16,Windows 10,4.36,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,2505.02
+Dell,Notebook,14.0,4,Windows 10,1.76,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,755.0
+Lenovo,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,489.9
+Toshiba,Ultrabook,14.0,4,Windows 10,1.25,1366,768,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,1090.0
+Lenovo,Ultrabook,14.0,8,Windows 10,1.13,1920,1080,False,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,2499.0
+MSI,Gaming,15.6,8,Windows 10,2.4,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GTX,1199.0
+Lenovo,Ultrabook,14.0,8,Windows 10,1.13,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1875.0
+Toshiba,Notebook,14.0,4,Windows 10,1.75,1366,768,False,Unknown,128,0,2.1,Intel Other,Intel HD Graphics,499.0
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1920,1080,True,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1358.0
+Dell,Notebook,14.0,4,Windows 10,1.76,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,585.0
+Acer,Netbook,11.6,4,Chrome OS,1.35,1366,768,False,IPS Panel,32,0,1.6,Intel Other,Intel HD Graphics,355.0
+Acer,Notebook,14.0,8,Windows 10,1.5,1920,1080,False,IPS Panel,128,0,2.4,Intel Core i3,Intel HD Graphics,619.0
+Razer,Gaming,17.3,32,Windows 10,3.49,3840,2160,True,Unknown,512,0,2.9,Intel Core i7,Nvidia GTX,5499.0
+Lenovo,Ultrabook,14.0,16,Windows 10,1.1,2560,1440,False,IPS Panel,512,0,2.6,Intel Core i7,Intel HD Graphics,2099.0
+Asus,Notebook,15.6,4,Linux,2.1,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GeForce,519.0
+Lenovo,Notebook,14.0,8,Windows 10,1.7,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1186.0
+Lenovo,Notebook,14.0,8,Windows 10,1.32,1920,1080,False,IPS Panel,256,0,2.6,Intel Core i5,Intel HD Graphics,1650.0
+Dell,Gaming,15.6,16,Windows 10,3.21,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2774.63
+Asus,Gaming,17.3,16,Windows 10,2.9,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2419.0
+Toshiba,Notebook,15.6,4,Windows 10,2.0,1366,768,False,Unknown,0,500,2.4,Intel Core i3,Intel HD Graphics,669.0
+Lenovo,Notebook,14.0,4,Chrome OS,1.5,1366,768,False,Unknown,16,0,1.6,Intel Other,Intel HD Graphics,325.0
+Asus,Notebook,15.6,8,Windows 10,2.3,1920,1080,False,Unknown,0,128,2.5,Intel Core i5,Intel HD Graphics,590.0
+Asus,Gaming,17.3,16,Windows 10,2.73,1920,1080,False,Unknown,512,1000,2.6,Intel Core i7,Nvidia GTX,1799.0
+Dell,Gaming,17.3,32,Windows 10,4.42,1920,1080,False,IPS Panel,512,1000,2.8,Intel Core i7,Nvidia GTX,3072.89
+HP,Notebook,17.3,8,Windows 10,2.63,1600,900,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GeForce,910.0
+Dell,Notebook,15.6,8,Windows 10,2.18,1366,768,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,713.99
+HP,Ultrabook,14.0,8,Windows 7,1.54,1920,1080,False,Unknown,512,0,2.5,Intel Core i7,Intel HD Graphics,1870.0
+Dell,Notebook,15.6,4,Windows 10,2.18,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,AMD,739.0
+HP,2 in 1 Convertible,11.6,4,Chrome OS,1.4,1366,768,True,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,615.0
+Asus,Ultrabook,13.3,8,Windows 10,1.45,1920,1080,False,IPS Panel,512,0,2.3,Intel Core i5,Nvidia GeForce,1026.0
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.28,1920,1080,True,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,2277.0
+HP,Ultrabook,14.0,8,Windows 10,1.54,1920,1080,False,Unknown,512,0,2.5,Intel Core i7,Intel HD Graphics,1468.0
+HP,Notebook,15.6,4,No OS,1.86,1366,768,False,Unknown,128,0,1.6,Intel Other,Intel HD Graphics,299.0
+Asus,Gaming,15.6,16,Windows 10,2.1,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1899.0
+Dell,Notebook,17.3,8,Linux,2.83,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,AMD,865.0
+Lenovo,Ultrabook,14.0,8,Windows 10,1.96,1920,1080,False,IPS Panel,256,0,2.8,Intel Core i7,Nvidia GeForce,1903.0
+Asus,Notebook,15.6,8,Windows 10,2.3,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Nvidia GTX,787.0
+Dell,Notebook,15.6,8,Windows 10,1.9,1920,1080,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,945.0
+Asus,Notebook,15.6,4,Windows 10,2.0,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,449.0
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.28,1920,1080,True,Unknown,256,0,2.8,Intel Core i7,Intel HD Graphics,2559.0
+Dell,Notebook,13.3,8,Windows 10,1.62,1920,1080,True,Unknown,0,1000,2.3,Intel Core i5,Intel HD Graphics,649.0
+Lenovo,Notebook,15.6,4,No OS,2.2,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,469.0
+Lenovo,Notebook,15.6,8,Windows 10,2.3,1920,1080,False,IPS Panel,0,1000,2.5,Intel Core i5,Intel HD Graphics,850.66
+HP,Notebook,15.6,8,Windows 10,1.84,1920,1080,False,Unknown,256,0,2.6,Intel Core i5,AMD,1349.0
+Toshiba,Notebook,13.3,4,Windows 10,1.05,1920,1080,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,1285.0
+Lenovo,Gaming,15.6,8,No OS,2.5,1920,1080,False,IPS Panel,0,1000,2.5,Intel Core i5,Nvidia GTX,1017.0
+Dell,Ultrabook,13.3,16,Windows 10,1.29,3200,1800,True,Unknown,512,0,2.5,Intel Core i7,Intel Iris,2240.0
+HP,Notebook,15.6,4,Windows 10,2.07,1920,1080,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,910.0
+Toshiba,Ultrabook,13.3,8,Windows 10,1.2,1366,768,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1095.0
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1920,1080,True,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1950.0
+Acer,Notebook,14.0,8,Windows 10,1.56,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,902.0
+Dell,Workstation,15.6,8,Windows 10,2.23,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia Quadro,1778.0
+Lenovo,Notebook,15.6,4,Windows 10,2.38,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,1055.0
+Lenovo,Notebook,15.6,4,No OS,2.2,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,AMD,479.0
+Toshiba,Notebook,15.6,8,Windows 10,2.0,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1388.0
+Lenovo,Notebook,13.3,4,Windows 10,1.44,1920,1080,False,IPS Panel,180,0,2.4,Intel Core i3,Intel HD Graphics,735.0
+Samsung,Ultrabook,15.0,16,Windows 10,1.23,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Nvidia GeForce,1849.0
+Dell,Ultrabook,12.5,8,Windows 10,1.6,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Intel HD Graphics,1690.0
+Asus,Notebook,15.6,4,Linux,2.0,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,398.99
+Xiaomi,Ultrabook,13.3,8,Windows 10,1.28,1920,1080,False,IPS Panel,256,0,2.3,Intel Core i5,Nvidia GeForce,935.0
+Dell,Notebook,15.6,4,Windows 10,2.18,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GeForce,912.5
+HP,Notebook,15.6,4,Windows 10,2.04,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,839.0
+HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,1920,1080,True,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1700.0
+HP,2 in 1 Convertible,15.6,4,Windows 10,2.3,1366,768,True,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,684.8
+Asus,Notebook,14.1,4,Windows 10,1.65,1366,768,False,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,348.0
+Lenovo,Notebook,15.6,8,Windows 10,2.2,1920,1080,False,IPS Panel,0,1000,2.5,Intel Core i7,Nvidia GeForce,669.0
+Dell,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,369.0
+HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,1920,1080,True,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1799.0
+Dell,Notebook,15.6,4,Linux,2.18,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,AMD,455.7
+Asus,Gaming,17.3,12,Windows 10,2.2,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GTX,1369.9
+Acer,Netbook,11.6,4,Chrome OS,1.25,1366,768,False,IPS Panel,32,0,1.6,Intel Other,Intel HD Graphics,297.0
+Lenovo,Notebook,17.3,4,Windows 10,2.8,1600,900,False,Unknown,0,500,2.2,AMD,AMD,379.0
+HP,Notebook,14.0,4,Windows 10,1.95,1920,1080,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,1265.0
+HP,2 in 1 Convertible,13.3,16,Windows 10,1.42,3200,1800,True,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1399.0
+Samsung,Ultrabook,15.0,8,Windows 10,1.17,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1699.0
+Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1799.0
+MSI,Gaming,17.3,16,Windows 10,2.43,3840,2160,False,IPS Panel,512,2000,2.6,Intel Core i7,Nvidia GTX,2649.0
+Toshiba,Notebook,13.3,8,Windows 10,1.05,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1475.0
+Dell,Gaming,15.6,8,Linux,2.62,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,929.0
+HP,Notebook,15.6,8,Windows 10,2.04,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,Nvidia GeForce,900.0
+Dell,Notebook,15.6,4,Windows 10,2.18,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,AMD,614.0
+Dell,Notebook,15.6,8,Windows 10,1.9,1920,1080,False,Unknown,0,500,2.6,Intel Core i5,Intel HD Graphics,935.0
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,3200,1800,True,Unknown,512,0,1.3,Intel Core i7,Intel HD Graphics,2013.1
+Asus,Gaming,17.3,32,Windows 10,3.58,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Nvidia GTX,1279.0
+Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,1920,1080,True,Unknown,256,0,1.3,Intel Core i7,Intel HD Graphics,1649.0
+Lenovo,Ultrabook,14.0,8,Windows 10,1.13,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,2049.0
+Lenovo,Notebook,15.6,8,Windows 10,1.95,1920,1080,False,IPS Panel,512,0,2.5,Intel Core i5,Intel HD Graphics,1962.99
+LG,Ultrabook,15.6,16,Windows 10,1.08,1920,1080,True,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,2099.0
+HP,Netbook,12.5,8,Windows 10,1.26,1920,1080,False,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,1483.0
+Acer,Notebook,15.6,4,Chrome OS,2.2,1920,1080,False,IPS Panel,16,0,1.5,Intel Other,Intel HD Graphics,359.0
+Lenovo,Notebook,15.6,8,Windows 10,2.6,1920,1080,False,IPS Panel,128,1000,2.3,Intel Core i5,Nvidia GTX,789.0
+LG,Ultrabook,14.0,8,Windows 10,0.98,1920,1080,True,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,1899.0
+Dell,Notebook,14.0,8,Windows 10,1.6,1920,1080,False,Unknown,256,0,2.8,Intel Core i5,Intel HD Graphics,1205.0
+HP,Ultrabook,12.5,8,Windows 10,1.09,3840,2160,True,Unknown,240,0,1.2,Intel Other,Intel HD Graphics,3100.0
+Lenovo,Notebook,15.6,6,Windows 10,2.2,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Nvidia GeForce,789.0
+HP,Notebook,15.6,8,Windows 10,2.04,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Nvidia GeForce,1018.99
+Acer,Notebook,15.6,4,Windows 10,2.4,1920,1080,False,Unknown,0,1000,2.4,Intel Core i3,Intel HD Graphics,499.0
+Lenovo,Notebook,13.3,4,Windows 10,1.44,1920,1080,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,881.0
+HP,Notebook,13.3,8,Windows 10,1.49,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,960.0
+MSI,Gaming,17.3,16,Windows 10,2.7,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1599.0
+Dell,Gaming,15.6,16,Windows 10,2.6,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1349.0
+MSI,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GTX,1119.91
+Dell,Notebook,15.6,4,Windows 10,2.18,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,AMD,684.99
+HP,Ultrabook,15.6,8,Windows 10,1.84,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,AMD,1296.99
+HP,Ultrabook,13.3,8,Windows 10,1.39,3200,1800,True,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1149.0
+Toshiba,Notebook,15.6,16,Windows 10,2.4,1920,1080,False,IPS Panel,256,0,2.6,Intel Core i7,Nvidia GeForce,1975.0
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1920,1080,True,IPS Panel,512,0,2.5,Intel Core i5,Intel HD Graphics,1825.0
+Dell,Notebook,15.6,4,Windows 10,1.95,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,729.9
+Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1920,1080,False,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1650.0
+HP,Notebook,15.6,8,Windows 10,2.31,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1165.0
+Dell,Notebook,15.6,4,Windows 10,2.18,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,708.06
+HP,Notebook,14.0,4,Windows 10,1.95,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,1149.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,309.0
+HP,Ultrabook,12.5,4,Windows 10,1.26,1920,1080,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,1579.0
+HP,Notebook,15.6,4,No OS,1.86,1366,768,False,Unknown,0,1000,1.6,Intel Other,Intel HD Graphics,288.9
+Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,3200,1800,True,IPS Panel,1000,0,2.2,Intel Core i7,Intel Iris,1799.0
+Toshiba,Notebook,14.0,4,Windows 10,1.47,1920,1080,False,IPS Panel,128,0,2.3,Intel Core i5,Intel HD Graphics,1105.0
+HP,Netbook,12.5,8,Windows 10,1.26,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1669.0
+Dell,Notebook,15.6,4,Windows 10,2.18,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,558.6
+MSI,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1199.0
+Dell,Ultrabook,14.0,8,Windows 10,1.36,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1639.0
+Dell,Gaming,17.3,16,Windows 10,4.36,2560,1440,False,Unknown,512,1000,2.7,Intel Core i7,Nvidia GTX,2758.0
+HP,Gaming,17.3,8,Windows 10,2.75,1920,1080,False,IPS Panel,128,1000,2.3,Intel Core i5,Nvidia GTX,1399.0
+Asus,Notebook,17.3,4,Windows 10,2.8,1600,900,False,Unknown,0,1000,1.6,Intel Other,Nvidia GeForce,530.0
+Acer,Notebook,15.6,4,Windows 10,2.23,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,619.0
+Toshiba,Notebook,15.6,8,Windows 10,2.2,1366,768,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1119.0
+Lenovo,2 in 1 Convertible,11.3,8,Windows 10,1.1,1920,1080,True,IPS Panel,256,0,1.2,Intel Other,Intel HD Graphics,1299.0
+Lenovo,Gaming,15.6,16,Windows 10,2.5,1920,1080,False,IPS Panel,512,1000,2.1,AMD,AMD,999.0
+Dell,Ultrabook,12.5,8,Windows 10,1.36,1920,1080,True,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1472.2
+Lenovo,Notebook,15.6,8,No OS,2.2,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,Nvidia GeForce,685.0
+Dell,Notebook,17.3,4,Windows 10,2.36,1600,900,False,Unknown,0,1000,2.0,Intel Core i3,AMD,659.0
+Acer,Notebook,14.0,4,Chrome OS,1.68,1366,768,False,Unknown,32,0,1.6,Intel Other,Intel HD Graphics,349.0
+HP,Workstation,15.6,8,Windows 10,2.0,1920,1080,False,IPS Panel,8,0,2.7,Intel Core i7,Nvidia Quadro,2249.0
+Dell,Ultrabook,14.0,8,Windows 10,1.36,1920,1080,False,Unknown,256,0,2.8,Intel Core i7,Intel HD Graphics,1775.0
+Toshiba,Notebook,13.3,8,Windows 7,1.2,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1460.0
+Asus,2 in 1 Convertible,12.5,8,Chrome OS,1.2,1920,1080,False,Unknown,64,0,1.2,Intel Other,Intel HD Graphics,1159.0
+Lenovo,Ultrabook,14.0,8,Windows 10,1.7,1920,1080,False,IPS Panel,256,0,2.6,Intel Core i7,Intel HD Graphics,1488.99
+Dell,Gaming,17.3,16,Windows 10,4.36,3840,2160,False,IPS Panel,512,1000,2.8,Intel Core i7,Nvidia GTX,3154.0
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,1920,1080,True,Unknown,256,0,1.2,Intel Core i5,Intel HD Graphics,1899.0
+HP,2 in 1 Convertible,11.6,4,Windows 10,1.45,1366,768,True,Unknown,256,0,1.1,Intel Other,Intel HD Graphics,775.0
+Dell,Ultrabook,13.3,8,Windows 10,1.3,3200,1800,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,1268.0
+Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.25,1366,768,True,IPS Panel,32,0,1.6,Intel Other,Intel HD Graphics,389.0
+Toshiba,Notebook,13.3,8,Windows 10,1.2,1920,1080,False,Unknown,256,0,2.4,Intel Core i5,Intel HD Graphics,1535.0
+Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1920,1080,False,IPS Panel,256,0,2.6,Intel Core i5,Intel HD Graphics,1760.0
+Acer,Notebook,15.6,12,Windows 10,2.4,1920,1080,False,Unknown,128,1000,2.5,Intel Core i5,Nvidia GTX,1009.0
+Toshiba,Ultrabook,12.5,8,Windows 10,1.1,1920,1080,True,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,1790.0
+HP,Notebook,15.6,8,Windows 10,2.04,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GeForce,846.5
+Dell,Notebook,15.6,4,Linux,2.25,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,AMD,465.62
+Dell,Notebook,15.6,4,Windows 10,1.9,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,825.0
+HP,Notebook,15.6,4,Windows 10,2.04,1920,1080,False,Unknown,0,500,2.4,Intel Core i3,Intel HD Graphics,685.0
+Dell,Gaming,17.3,32,Windows 10,4.42,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,3149.0
+Lenovo,Notebook,15.6,6,Windows 10,2.4,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GeForce,695.0
+Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,3200,1800,True,Unknown,512,0,1.3,Intel Core i7,Intel HD Graphics,1899.0
+Dell,Ultrabook,14.0,8,Windows 10,1.5,2560,1440,True,Unknown,256,0,2.6,Intel Core i7,Intel HD Graphics,1962.98
+Dell,Gaming,17.3,32,Windows 10,4.42,1920,1080,False,Unknown,256,1000,2.6,Intel Core i7,Nvidia GTX,2800.0
+Toshiba,Notebook,14.0,8,Windows 10,1.95,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1180.0
+Asus,Gaming,17.3,16,Windows 10,2.73,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2049.9
+HP,Notebook,15.6,8,Windows 10,2.04,1920,1080,False,IPS Panel,128,1000,2.7,Intel Core i5,Nvidia GeForce,979.0
+Lenovo,Notebook,14.0,4,Windows 7,1.7,1366,768,False,Unknown,0,508,2.3,Intel Core i5,Intel HD Graphics,1002.0
+Asus,2 in 1 Convertible,15.6,16,Windows 10,2.3,3840,2160,True,Unknown,512,2000,2.7,Intel Core i7,Nvidia GTX,1799.0
+HP,Notebook,15.6,6,Windows 10,2.04,1366,768,False,Unknown,0,1000,2.7,Intel Core i7,Intel HD Graphics,579.0
+Asus,Gaming,17.3,16,Windows 10,2.99,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1749.0
+Dell,2 in 1 Convertible,15.6,12,Windows 10,2.19,1920,1080,True,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,1299.0
+Toshiba,Notebook,13.3,4,Windows 7,1.2,1920,1080,False,Unknown,128,0,2.3,Intel Core i5,Intel HD Graphics,1195.0
+Lenovo,Notebook,15.6,6,Windows 10,2.2,1920,1080,False,Unknown,256,0,3.6,AMD,AMD,549.0
+Fujitsu,Notebook,15.6,4,Windows 10,2.3,1366,768,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,649.0
+Toshiba,Notebook,14.0,4,Windows 10,1.75,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,915.0
+Dell,Notebook,15.6,4,Windows 10,2.25,1366,768,False,Unknown,0,500,2.5,Intel Core i5,AMD,599.0
+HP,Notebook,15.6,8,Windows 10,2.04,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,806.0
+Lenovo,Gaming,15.6,8,Windows 10,2.5,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1189.0
+Dell,Notebook,15.6,8,Windows 10,2.36,1366,768,False,Unknown,0,1000,2.7,Intel Core i7,AMD,749.0
+Dell,Notebook,14.0,8,Windows 10,1.6,1920,1080,False,Unknown,128,0,2.5,Intel Core i5,Intel HD Graphics,1119.0
+HP,Netbook,12.5,8,Windows 10,0.97,1920,1080,False,Unknown,512,0,1.2,Intel Other,Intel HD Graphics,1908.0
+HP,Notebook,15.6,4,Windows 10,2.1,1920,1080,False,Unknown,128,1000,2.0,Intel Core i3,AMD,499.0
+Lenovo,Notebook,15.6,4,No OS,1.9,1366,768,False,Unknown,128,0,1.1,Intel Other,Intel HD Graphics,270.62
+Lenovo,Notebook,15.6,8,Windows 10,2.3,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1349.0
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.68,1920,1080,True,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,889.0
+Asus,Notebook,13.3,8,Windows 10,1.4,3200,1800,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1150.0
+HP,Ultrabook,13.3,8,Windows 10,1.11,1920,1080,True,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1349.0
+Acer,Notebook,15.6,4,Windows 10,2.4,1366,768,False,Unknown,0,500,1.1,Intel Other,Intel HD Graphics,380.0
+Asus,Gaming,15.6,16,Windows 10,2.5,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1799.0
+HP,Ultrabook,14.0,8,Windows 10,1.48,1920,1080,False,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,2089.0
+Acer,Gaming,15.6,8,Windows 10,2.7,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1260.0
+HP,Notebook,13.3,8,Windows 10,1.34,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1189.0
+Dell,Notebook,15.6,4,Windows 10,2.18,1366,768,False,Unknown,128,0,2.4,Intel Core i3,Intel HD Graphics,547.0
+HP,Notebook,14.0,4,Windows 10,1.64,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,779.0
+Toshiba,Notebook,13.3,4,Windows 10,1.2,1920,1080,False,Unknown,128,0,2.3,Intel Core i5,Intel HD Graphics,1195.0
+HP,Notebook,14.0,4,Windows 10,1.48,1366,768,False,Unknown,256,0,2.4,Intel Core i5,Intel HD Graphics,1099.99
+HP,Notebook,14.0,4,Windows 10,1.95,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1205.0
+HP,Ultrabook,14.0,8,Windows 7,1.43,1920,1080,False,Unknown,256,0,2.6,Intel Core i7,Intel HD Graphics,1449.0
+HP,Notebook,14.0,8,Windows 10,1.64,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GeForce,1049.26
+HP,Notebook,14.0,4,Windows 10,1.64,1366,768,False,Unknown,0,500,2.4,Intel Core i3,Intel HD Graphics,684.0
+Dell,Gaming,15.6,8,Windows 10,2.65,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GTX,949.0
+HP,Ultrabook,12.5,4,Windows 10,1.26,1920,1080,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,1539.0
+HP,Notebook,14.0,4,Windows 10,1.48,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1590.0
+HP,Ultrabook,14.0,8,Windows 10,1.54,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,1887.21
+HP,Notebook,13.3,4,Windows 10,1.49,1366,768,False,Unknown,0,500,2.4,Intel Core i3,Intel HD Graphics,800.0
+Toshiba,Notebook,13.3,8,Windows 10,1.5,1366,768,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1210.0
+HP,Notebook,15.6,4,Windows 10,2.04,1366,768,False,Unknown,256,0,2.4,Intel Core i3,Intel HD Graphics,769.99
+Lenovo,Notebook,17.3,16,Windows 7,2.4,3840,2160,False,IPS Panel,512,0,2.7,Intel Core i7,Nvidia Quadro,2968.0
+Toshiba,Notebook,14.0,8,Windows 10,1.47,1920,1080,False,IPS Panel,256,0,2.3,Intel Core i5,Intel HD Graphics,1490.0
+HP,Notebook,14.0,8,Windows 10,1.43,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,2229.0
+Dell,2 in 1 Convertible,15.6,4,Windows 10,2.08,1920,1080,True,IPS Panel,0,1000,2.3,Intel Core i3,Intel HD Graphics,795.99
+Toshiba,Ultrabook,13.3,8,Windows 10,1.2,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1590.0
+HP,Notebook,13.3,8,Windows 10,1.11,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1149.0
+HP,Notebook,14.0,8,Windows 10,1.64,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Nvidia GeForce,1185.43
+Dell,Notebook,15.6,8,Windows 10,2.09,1920,1080,False,Unknown,0,500,2.4,Intel Core i5,Intel HD Graphics,1046.44
+HP,Ultrabook,12.5,4,Windows 10,1.26,1366,768,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1559.0
+HP,Notebook,14.0,4,Windows 10,2.31,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,1189.0
+HP,Notebook,14.0,4,Windows 10,1.95,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,1060.0
+Dell,Ultrabook,13.3,8,Windows 10,1.29,3200,1800,True,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1624.0
+HP,Notebook,17.3,8,Windows 10,2.63,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GeForce,1080.0
+HP,Notebook,14.0,4,Windows 10,1.64,1366,768,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,973.0
+Acer,Notebook,15.6,6,Windows 10,2.1,1366,768,False,Unknown,0,1000,3.0,AMD,AMD,409.0
+MSI,Gaming,17.3,8,Windows 10,2.7,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1191.8
+HP,Notebook,14.0,8,Windows 7,1.95,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1195.0
+HP,Notebook,15.6,8,Windows 10,1.84,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,1228.99
+HP,Ultrabook,12.5,8,Windows 10,1.26,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,1349.0
+HP,Notebook,15.6,4,Windows 10,2.04,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,742.0
+Toshiba,Ultrabook,14.0,8,Windows 10,1.47,1920,1080,False,IPS Panel,256,0,2.6,Intel Core i7,Intel HD Graphics,1725.0
+Dell,Notebook,15.6,8,Windows 7,2.09,1920,1080,False,Unknown,256,0,2.4,Intel Core i5,Intel HD Graphics,1062.95
+HP,Notebook,14.0,8,Windows 10,1.64,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,1010.51
+Lenovo,2 in 1 Convertible,15.6,4,Windows 10,1.8,1920,1080,True,IPS Panel,256,0,2.5,Intel Core i7,Intel HD Graphics,847.0
+Vero,Notebook,14.0,2,Windows 10,1.45,1366,768,False,Unknown,32,0,1.44,Intel Other,Intel HD Graphics,210.8
+Toshiba,Notebook,15.6,16,Windows 10,2.4,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i7,Nvidia GeForce,1425.0
+Lenovo,Notebook,15.6,8,Windows 10,2.3,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1049.6
+HP,Notebook,14.0,4,Windows 10,1.54,1920,1080,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,1000.0
+HP,Notebook,15.6,8,Windows 10,1.84,1920,1080,False,Unknown,256,500,2.4,Intel Core i5,Intel HD Graphics,2103.34
+HP,Notebook,14.0,8,Windows 7,1.43,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1469.0
+MSI,Gaming,17.3,16,Windows 10,3.78,1920,1080,False,IPS Panel,256,1000,2.7,Intel Core i7,Nvidia GTX,1545.64
+Lenovo,Gaming,17.3,16,Windows 10,4.6,1920,1080,False,IPS Panel,128,1000,2.6,Intel Core i7,Nvidia GTX,2289.99
+Asus,Netbook,11.6,4,Chrome OS,1.2,1366,768,False,Unknown,16,0,1.6,Intel Other,Intel HD Graphics,287.9
+Lenovo,Notebook,14.0,16,Windows 7,1.1,2560,1440,False,IPS Panel,256,0,2.6,Intel Core i7,Intel HD Graphics,2620.0
+HP,Notebook,15.6,8,Windows 10,1.91,1920,1080,False,IPS Panel,0,1000,2.7,Intel Core i7,Nvidia GeForce,979.0
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.3,1920,1080,True,IPS Panel,256,0,2.7,Intel Core i5,Intel HD Graphics,1094.0
+HP,Notebook,15.6,4,Windows 10,2.04,1366,768,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,979.0
+Dell,Ultrabook,13.3,16,Windows 10,1.2,3200,1800,True,Unknown,1000,0,2.7,Intel Core i7,Intel HD Graphics,2254.0
+HP,Notebook,15.6,4,Windows 10,2.31,1366,768,False,Unknown,0,500,2.3,Intel Core i3,Intel HD Graphics,705.15
+HP,Notebook,15.6,4,No OS,1.96,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,499.0
+Acer,Notebook,15.6,8,Windows 10,2.4,1366,768,False,Unknown,0,1000,2.2,AMD,AMD,449.0
+Dell,2 in 1 Convertible,13.3,12,Windows 10,1.6,1920,1080,True,IPS Panel,256,0,2.7,Intel Core i7,Intel HD Graphics,1299.0
+MSI,Gaming,15.6,16,Windows 10,2.94,1920,1080,False,Unknown,256,1000,2.6,Intel Core i7,Nvidia GTX,1819.0
+HP,Notebook,15.6,8,Windows 10,2.04,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1070.0
+Asus,Gaming,17.3,16,No OS,4.0,1920,1080,False,IPS Panel,0,1000,2.6,Intel Core i7,Nvidia GTX,998.0
+Dell,Notebook,15.6,4,Windows 10,2.25,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,559.0
+Dell,Notebook,15.6,16,Windows 10,2.32,1920,1080,False,Unknown,0,2000,2.7,Intel Core i7,AMD,989.99
+MSI,Gaming,15.6,16,Windows 10,1.8,1920,1080,False,Unknown,256,1000,2.6,Intel Core i7,Nvidia GTX,1929.0
+Dell,Ultrabook,13.3,8,Windows 10,1.29,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1458.0
+Asus,Gaming,17.3,64,Windows 10,3.58,1920,1080,False,IPS Panel,1000,0,2.7,Intel Core i7,Nvidia GTX,3975.0
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,1920,1080,True,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,798.01
+Dell,Gaming,15.6,16,Windows 10,3.21,3840,2160,False,Unknown,256,1000,2.6,Intel Core i7,Nvidia GTX,1329.0
+Apple,Ultrabook,12.0,8,Mac OS X,0.92,2304,1440,False,IPS Panel Retina Display,256,0,1.1,Intel Other,Intel HD Graphics,1300.0
+Dell,Notebook,15.6,4,Windows 10,2.06,1366,768,False,Unknown,0,500,2.3,Intel Core i3,Intel HD Graphics,481.98
+HP,Notebook,15.6,4,Windows 10,2.31,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,1199.0
+HP,Ultrabook,12.5,8,Windows 7,1.26,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1199.0
+HP,Notebook,13.3,8,Windows 10,1.49,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1090.0
+Lenovo,Ultrabook,12.5,8,Windows 10,1.3,1920,1080,True,IPS Panel,256,0,2.5,Intel Core i7,Intel HD Graphics,1713.49
+Lenovo,Notebook,17.3,8,Windows 10,3.0,1600,900,False,Unknown,0,1000,2.3,Intel Core i5,AMD,659.0
+Lenovo,Notebook,15.6,4,Windows 10,2.3,1920,1080,False,IPS Panel,0,1000,2.3,Intel Core i5,Nvidia GTX,977.0
+MSI,Gaming,17.3,16,Windows 10,3.78,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2499.0
+Lenovo,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,540.0
+HP,Notebook,15.6,4,Windows 7,2.31,1920,1080,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,940.0
+Lenovo,Ultrabook,12.5,8,Windows 10,0.99,2560,1440,True,IPS Panel,512,0,1.2,Intel Other,Intel HD Graphics,1399.0
+Lenovo,Gaming,17.3,32,Windows 10,4.6,1920,1080,False,IPS Panel,512,1000,2.7,Intel Core i7,Nvidia GTX,3240.0
+Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,1920,1200,True,IPS Panel,64,0,1.44,Intel Other,Intel HD Graphics,646.27
+HP,Ultrabook,13.3,16,Windows 10,1.3,3840,2160,False,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,2049.0
+Dell,Notebook,15.6,8,Windows 10,2.18,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,750.0
+HP,Notebook,14.0,4,Windows 7,1.54,1920,1080,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,1030.99
+HP,Workstation,15.6,8,Windows 7,1.9,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,AMD,1495.0
+Lenovo,Notebook,14.0,8,Windows 7,1.7,1920,1080,False,Unknown,180,0,2.3,Intel Core i5,Intel HD Graphics,1199.0
+HP,Notebook,13.3,4,Chrome OS,1.29,3200,1800,False,Unknown,32,0,1.5,Intel Other,Intel HD Graphics,615.0
+Acer,Notebook,15.6,4,Windows 10,2.4,1366,768,False,Unknown,0,500,2.2,AMD,AMD,387.0
+Dell,Notebook,15.6,4,Linux,2.2,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,393.49
+HP,Notebook,15.6,4,No OS,1.86,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,345.99
+Asus,Gaming,17.3,8,Windows 10,2.7,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1599.0
+Dell,Ultrabook,13.3,4,Windows 10,1.4,1920,1080,False,IPS Panel,256,0,1.6,Intel Core i5,AMD,818.35
+HP,Netbook,12.5,4,Windows 7,2.4,1366,768,False,Unknown,128,0,2.3,Intel Core i5,Intel HD Graphics,1599.0
+Acer,Notebook,15.6,8,Windows 10,2.4,1920,1080,False,Unknown,256,1000,2.5,Intel Core i5,Nvidia GTX,799.0
+Dell,Notebook,15.6,8,Windows 10,2.36,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,AMD,638.8
+MSI,Gaming,17.3,8,Windows 10,2.6,1920,1080,False,Unknown,256,0,2.6,Intel Core i7,Nvidia GTX,1599.0
+HP,Notebook,15.6,4,Windows 10,1.96,1366,768,False,Unknown,0,1000,1.6,Intel Other,Intel HD Graphics,500.0
+Asus,Gaming,17.3,16,Windows 10,4.3,1920,1080,False,IPS Panel,128,1000,2.6,Intel Core i7,Nvidia GTX,2299.0
+Dell,Ultrabook,12.5,4,Windows 7,1.5,1366,768,False,Unknown,0,500,2.3,Intel Core i3,Intel HD Graphics,1135.15
+Dell,Ultrabook,12.5,4,Windows 7,1.5,1366,768,False,Unknown,128,0,2.3,Intel Core i3,Intel HD Graphics,1166.97
+Acer,Notebook,15.6,4,Chrome OS,2.2,1366,768,False,Unknown,16,0,1.5,Intel Other,Intel HD Graphics,209.0
+HP,Workstation,17.3,8,Windows 7,3.0,1920,1080,False,IPS Panel,0,1000,2.6,Intel Core i7,AMD,2899.0
+Lenovo,Gaming,15.6,16,Windows 10,2.4,1920,1080,False,Unknown,512,0,2.8,Intel Core i7,Nvidia GTX,1199.0
+Dell,Ultrabook,12.5,8,Windows 7,1.5,1366,768,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1413.1
+MSI,Gaming,17.3,8,Windows 10,2.9,1920,1080,False,Unknown,128,1000,2.6,Intel Core i7,Nvidia GTX,1511.19
+Lenovo,2 in 1 Convertible,15.6,4,Windows 10,2.1,1920,1080,True,IPS Panel,256,0,2.3,Intel Core i5,Intel HD Graphics,867.0
+HP,Notebook,15.6,4,Windows 10,2.1,1920,1080,False,Unknown,0,1000,2.5,AMD,AMD,398.0
+Asus,Gaming,15.6,16,Windows 10,2.59,1920,1080,False,IPS Panel,128,1000,2.6,Intel Core i7,Nvidia GTX,1339.0
+HP,Notebook,13.3,8,Windows 10,1.16,3200,1800,True,Unknown,256,0,1.1,Intel Other,Intel HD Graphics,1699.0
+Dell,Notebook,15.6,4,Windows 7,2.24,1366,768,False,Unknown,0,500,2.3,Intel Core i5,AMD,769.15
+Lenovo,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,128,0,2.0,Intel Core i3,Intel HD Graphics,429.0
+HP,Ultrabook,13.3,8,Windows 10,1.16,1920,1080,False,Unknown,512,0,2.5,Intel Core i7,Intel HD Graphics,1969.0
+Lenovo,2 in 1 Convertible,10.1,4,Android,0.69,1920,1200,True,IPS Panel,64,0,1.44,Intel Other,Intel HD Graphics,549.0
+Dell,Ultrabook,13.3,8,Windows 10,1.23,1920,1080,False,Unknown,256,0,2.4,Intel Core i7,Intel Iris,1379.0
+Lenovo,Gaming,17.3,16,Windows 10,4.6,1920,1080,False,IPS Panel,256,1000,2.7,Intel Core i7,Nvidia GTX,2749.99
+Razer,Ultrabook,12.5,8,Windows 10,1.25,3840,2160,True,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,1029.0
+Toshiba,Ultrabook,13.3,16,Windows 10,1.05,1920,1080,False,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,2226.0
+Asus,Gaming,17.3,8,Windows 10,3.52,1920,1080,False,Unknown,128,1000,2.6,Intel Core i7,Nvidia GTX,1312.49
+Vero,Notebook,13.3,4,Windows 10,1.35,1920,1080,False,Unknown,32,0,1.44,Intel Other,Intel HD Graphics,196.0
+HP,Notebook,13.3,8,Windows 10,1.16,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1690.0
+HP,Notebook,14.0,8,Windows 7,1.43,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1513.0
+Dell,Notebook,15.6,4,Linux,2.09,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,523.63
+Asus,Notebook,15.6,4,Windows 10,2.0,1366,768,False,Unknown,0,1000,2.4,Intel Core i3,Intel HD Graphics,435.0
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.8,1920,1080,True,IPS Panel,256,0,2.5,Intel Core i7,Intel HD Graphics,1669.0
+Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,1920,1200,True,IPS Panel,64,0,1.44,Intel Other,Intel HD Graphics,479.0
+HP,Ultrabook,12.5,8,Windows 7,1.26,1366,768,False,Unknown,256,0,2.4,Intel Core i5,Intel HD Graphics,1895.0
+Lenovo,Gaming,15.6,8,No OS,2.4,1920,1080,False,IPS Panel,128,1000,2.5,Intel Core i5,Nvidia GTX,989.0
+HP,Gaming,17.3,8,Windows 10,3.35,1920,1080,False,IPS Panel,128,1000,2.3,Intel Core i5,Nvidia GTX,1129.0
+HP,Notebook,15.6,8,Windows 10,2.04,1366,768,False,Unknown,0,2000,2.7,Intel Core i7,Intel HD Graphics,629.0
+Lenovo,2 in 1 Convertible,14.0,8,Windows 7,1.8,1920,1080,True,IPS Panel,512,0,2.6,Intel Core i7,Nvidia Quadro,2050.38
+Asus,Notebook,14.0,4,Windows 10,1.5,1366,768,False,Unknown,32,0,1.1,Intel Other,Intel HD Graphics,278.0
+HP,Ultrabook,15.6,8,Windows 10,1.84,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,752.0
+Acer,Notebook,15.6,4,Windows 10,2.23,1920,1080,False,Unknown,0,1000,2.5,Intel Core i5,Nvidia GeForce,616.0
+Lenovo,Notebook,15.6,16,Windows 10,2.5,1920,1080,False,Unknown,0,1000,2.5,Intel Core i7,AMD,1099.0
+HP,Workstation,17.3,8,Windows 7,3.0,1920,1080,False,IPS Panel,256,0,2.6,Intel Core i7,Nvidia Quadro,3949.4
+Dell,Notebook,15.6,8,Windows 10,2.5,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,AMD,784.0
+MSI,Gaming,17.3,16,Windows 10,3.78,1920,1080,False,Unknown,256,1000,2.7,Intel Core i7,Nvidia GTX,2399.0
+HP,Ultrabook,15.6,8,Windows 7,1.88,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,2171.72
+Lenovo,2 in 1 Convertible,14.0,16,Windows 10,2.8,2560,1440,True,IPS Panel,512,0,2.6,Intel Core i7,Intel HD Graphics,2440.0
+MSI,Gaming,15.6,8,Windows 10,2.4,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1142.8
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,1920,1080,True,Unknown,256,0,2.4,Intel Core i5,Intel HD Graphics,1629.0
+HP,Workstation,15.6,8,Windows 7,2.59,1920,1080,False,IPS Panel,256,0,2.6,Intel Core i7,Nvidia Quadro,2229.0
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,2560,1440,True,Unknown,256,0,2.6,Intel Core i7,Intel HD Graphics,1799.0
+HP,Workstation,15.6,8,Windows 7,2.0,1920,1080,False,Unknown,256,0,2.6,Intel Core i7,Nvidia Quadro,1899.0
+HP,Ultrabook,12.5,8,Windows 7,1.26,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,2296.95
+Dell,Notebook,15.6,8,Windows 10,2.18,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Nvidia GeForce,1009.9
+HP,Notebook,15.6,8,Windows 7,1.88,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1579.0
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.27,2560,1440,True,IPS Panel,256,0,2.5,Intel Core i7,Intel HD Graphics,2339.0
+Lenovo,Notebook,15.6,4,No OS,1.9,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,339.0
+HP,Notebook,15.6,4,Windows 10,1.86,1366,768,False,Unknown,0,500,1.8,AMD,AMD,297.0
+Lenovo,Notebook,15.6,8,No OS,2.32,1920,1080,False,Unknown,0,1000,2.3,Intel Core i5,AMD,599.0
+Dell,Gaming,15.6,8,Windows 10,2.62,1920,1080,False,Unknown,0,1000,2.8,Intel Core i7,Nvidia GTX,1199.0
+Dell,Notebook,15.6,8,Windows 10,2.04,3840,2160,True,IPS Panel,256,0,2.3,Intel Core i5,Nvidia GeForce,2250.68
+HP,Notebook,15.6,4,Windows 10,1.91,1920,1080,False,Unknown,256,0,2.5,AMD,AMD,478.89
+MSI,Gaming,17.3,16,Windows 10,2.7,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1492.8
+Lenovo,Ultrabook,14.0,12,Windows 7,1.4,1920,1080,False,Unknown,512,0,2.6,Intel Core i7,Intel HD Graphics,2299.0
+Lenovo,Notebook,15.6,8,Windows 10,2.5,1920,1080,False,Unknown,0,1000,2.3,Intel Core i5,AMD,788.49
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,2560,1440,True,Unknown,512,0,2.6,Intel Core i7,Intel HD Graphics,2041.0
+Lenovo,Ultrabook,14.0,8,Windows 7,1.7,1920,1080,False,Unknown,256,0,2.6,Intel Core i7,Intel HD Graphics,1499.0
+MSI,Gaming,14.0,16,Windows 10,1.7,1920,1080,False,Unknown,256,1000,2.6,Intel Core i7,Nvidia GTX,1769.0
+HP,Gaming,15.6,8,Windows 10,2.62,1920,1080,False,IPS Panel,0,1000,2.8,Intel Core i7,Nvidia GTX,899.0
+Lenovo,Notebook,15.6,8,Windows 10,2.2,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,459.0
+HP,Notebook,15.6,4,No OS,2.1,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,476.99
+Dell,Gaming,15.6,8,Windows 10,2.62,3840,2160,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1498.0
+Lenovo,Notebook,15.6,8,Windows 10,1.95,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1390.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,Nvidia GeForce,468.0
+HP,Notebook,14.0,2,Windows 10,1.44,1366,768,False,Unknown,32,0,1.6,Intel Other,Intel HD Graphics,249.0
+MSI,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,IPS Panel,0,1000,2.7,Intel Core i7,Nvidia GTX,839.0
+HP,Notebook,15.6,8,Windows 10,1.96,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,679.0
+HP,Notebook,15.6,16,Windows 10,2.1,1920,1080,False,Unknown,512,0,1.8,Intel Core i7,Intel HD Graphics,1159.0
+Asus,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,369.0
+Lenovo,Notebook,15.6,4,No OS,2.1,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,398.0
+Lenovo,Notebook,15.6,8,No OS,2.2,1920,1080,False,Unknown,0,1000,2.7,Intel Core i7,Nvidia GeForce,709.0
+Asus,Notebook,14.0,4,Windows 10,2.0,1920,1080,False,Unknown,256,0,2.4,Intel Core i3,Intel HD Graphics,769.0
+Lenovo,Notebook,15.6,4,Windows 7,2.32,1920,1080,False,Unknown,0,1000,2.5,Intel Core i7,Intel HD Graphics,825.0
+Lenovo,Gaming,15.6,16,Windows 10,3.31,1920,1080,False,IPS Panel,512,0,2.6,Intel Core i7,Nvidia GTX,1305.0
+MSI,Gaming,15.6,16,Windows 10,1.91,1920,1080,False,Unknown,128,1000,2.6,Intel Core i7,Nvidia GTX,2153.37
+HP,Notebook,15.6,4,Windows 10,2.07,1366,768,False,Unknown,0,500,2.3,Intel Core i3,Intel HD Graphics,650.0
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.36,2560,1440,True,IPS Panel,256,0,2.3,Intel Core i5,Intel HD Graphics,1637.0
+Lenovo,Ultrabook,15.6,6,Windows 10,1.54,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Nvidia GeForce,831.0
+Dell,Notebook,15.6,8,Linux,1.98,1920,1080,False,Unknown,256,0,2.7,Intel Core i7,Nvidia GeForce,895.01
+Acer,Notebook,15.6,4,Windows 10,2.1,1366,768,False,Unknown,0,500,2.0,Intel Other,Intel HD Graphics,333.0
+HP,Notebook,15.6,6,Windows 10,2.18,1920,1080,False,IPS Panel,0,1000,2.6,Intel Core i7,Nvidia GTX,799.0
+Asus,Gaming,15.6,8,Windows 10,2.591,1920,1080,False,IPS Panel,256,1000,2.6,Intel Core i7,Nvidia GTX,909.0
+Dell,2 in 1 Convertible,15.6,16,Windows 10,2.09,1920,1080,True,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,1179.0
+Acer,Notebook,15.6,4,Windows 10,2.23,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,Nvidia GeForce,691.0
+Dell,Ultrabook,13.3,8,Linux,1.23,3200,1800,True,Unknown,256,0,2.4,Intel Core i5,Intel HD Graphics,1099.0
+Acer,Gaming,17.3,16,Windows 10,4.2,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,2599.0
+Lenovo,Gaming,15.6,8,Windows 10,2.4,1920,1080,False,IPS Panel,0,1000,2.5,Intel Core i5,Nvidia GTX,819.0
+HP,Notebook,15.6,4,Windows 10,1.86,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,485.0
+Apple,Ultrabook,12.0,8,Mac OS X,0.92,2304,1440,False,IPS Panel Retina Display,256,0,1.1,Intel Other,Intel HD Graphics,1163.0
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,1920,1080,True,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,1199.0
+HP,Notebook,15.6,12,Windows 10,2.21,1920,1080,False,IPS Panel,128,1000,2.8,Intel Core i7,Nvidia GTX,1327.0
+Lenovo,Notebook,15.6,4,No OS,1.9,1366,768,False,Unknown,0,1000,2.0,Intel Core i3,AMD,368.0
+Asus,Gaming,17.3,16,Windows 10,4.3,1920,1080,False,IPS Panel,512,1000,2.6,Intel Core i7,Nvidia GTX,2150.0
+Acer,Notebook,15.6,4,Linux,2.1,1366,768,False,Unknown,0,1000,2.0,Intel Other,Intel HD Graphics,272.0
+MSI,Gaming,17.3,16,Windows 10,2.43,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2048.9
+Dell,Notebook,15.6,4,Windows 10,2.3,1366,768,False,Unknown,128,0,2.0,Intel Core i3,AMD,499.0
+Lenovo,Notebook,15.6,8,No OS,2.2,1366,768,False,Unknown,0,500,2.5,Intel Core i7,Nvidia GeForce,629.0
+Dell,2 in 1 Convertible,15.6,16,Windows 10,2.0,1920,1080,True,Unknown,512,0,1.8,Intel Core i7,Intel HD Graphics,1285.0
+Dell,Ultrabook,13.3,16,Windows 10,1.2,3200,1800,True,Unknown,512,0,2.7,Intel Core i7,Intel HD Graphics,2680.0
+Asus,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,0,1000,2.6,Intel Core i7,Nvidia GTX,1169.0
+Dell,Notebook,15.6,8,Windows 10,2.36,1920,1080,False,Unknown,256,0,2.5,Intel Core i5,AMD,889.0
+HP,Notebook,15.6,8,Windows 10,1.91,1366,768,False,Unknown,256,0,2.5,Intel Core i5,Intel HD Graphics,579.0
+Lenovo,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,0,500,2.2,AMD,AMD,299.0
+Acer,Notebook,17.3,8,Windows 10,3.3,1600,900,False,Unknown,0,1000,2.0,Intel Core i3,Nvidia GeForce,629.0
+Asus,Gaming,15.6,16,Windows 10,2.2,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,2449.0
+Apple,Ultrabook,12.0,8,Mac OS X,0.92,2304,1440,False,IPS Panel Retina Display,512,0,1.2,Intel Other,Intel HD Graphics,1279.0
+Asus,Notebook,15.6,16,Windows 10,2.2,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1749.0
+MSI,Gaming,17.3,16,Windows 10,2.43,1920,1080,False,IPS Panel,256,1000,2.6,Intel Core i7,Nvidia GTX,1948.99
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.191,1920,1080,True,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,999.0
+Asus,Gaming,17.3,16,Windows 10,2.9,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1949.0
+Acer,Netbook,11.6,2,Chrome OS,1.3,1366,768,False,Unknown,32,0,1.5,Intel Other,Intel HD Graphics,174.0
+Acer,Notebook,17.3,4,Windows 10,3.3,1600,900,False,Unknown,0,1000,2.0,Intel Core i3,Nvidia GeForce,598.0
+Lenovo,Notebook,17.3,8,No OS,2.8,1600,900,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,539.0
+Lenovo,Gaming,15.6,8,Windows 10,2.6,1920,1080,False,IPS Panel,128,1000,2.6,Intel Core i7,Nvidia GTX,1272.0
+Acer,2 in 1 Convertible,14.0,8,Windows 10,1.2,1920,1080,True,IPS Panel,256,0,1.3,Intel Core i7,Intel HD Graphics,1149.0
+Lenovo,Notebook,15.6,8,Windows 10,2.3,1920,1080,False,IPS Panel,256,0,2.6,Intel Core i7,Intel HD Graphics,1529.0
+MSI,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,128,1000,2.6,Intel Core i7,Nvidia GTX,1476.11
+HP,Notebook,15.6,6,Windows 10,2.1,1920,1080,False,Unknown,0,1000,2.7,AMD,AMD,529.0
+Dell,Ultrabook,12.5,8,Windows 7,1.26,1920,1080,True,Unknown,256,0,2.4,Intel Core i5,Intel HD Graphics,1713.37
+Dell,2 in 1 Convertible,15.0,4,Windows 10,2.08,1920,1080,True,Unknown,0,500,2.4,Intel Core i3,Intel HD Graphics,509.0
+Asus,Notebook,15.6,4,Windows 10,2.65,1366,768,False,Unknown,0,1000,1.6,Intel Other,Intel HD Graphics,309.0
+Dell,Ultrabook,13.3,8,Windows 10,1.29,3200,1800,True,Unknown,256,0,2.7,Intel Core i7,Intel HD Graphics,1477.0
+Dell,Notebook,15.6,4,Linux,2.18,1366,768,False,Unknown,0,1000,2.5,Intel Core i5,Intel HD Graphics,521.86
+Lenovo,Gaming,15.6,16,Windows 10,2.6,1920,1080,True,IPS Panel,128,1000,2.6,Intel Core i7,Nvidia GTX,1029.0
+MSI,Gaming,15.6,8,Windows 10,2.2,1920,1080,False,Unknown,128,1000,2.8,Intel Core i7,Nvidia GTX,1149.0
+Lenovo,Netbook,12.5,16,Windows 10,1.3,1920,1080,True,IPS Panel,512,0,2.5,Intel Core i7,Intel HD Graphics,1650.0
+Razer,Gaming,14.0,16,Windows 10,1.95,1920,1080,False,Unknown,1000,0,2.8,Intel Core i7,Nvidia GTX,3499.0
+Dell,Notebook,15.6,8,Windows 10,2.3,1366,768,True,Unknown,0,1000,2.4,Intel Core i3,Intel HD Graphics,469.01
+MSI,Gaming,17.3,16,Windows 10,2.7,1920,1080,False,Unknown,256,1000,2.8,Intel Core i7,Nvidia GTX,1598.0
+Apple,Ultrabook,11.6,4,Mac OS X,1.08,1366,768,False,Unknown,256,0,1.6,Intel Core i5,Intel HD Graphics,959.0
+HP,Notebook,15.6,4,Windows 10,2.1,1920,1080,False,Unknown,0,1000,2.0,Intel Core i3,Intel HD Graphics,478.0
+HP,Ultrabook,14.0,8,Windows 7,1.54,2560,1440,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,2198.19
+Dell,Notebook,15.6,4,Windows 7,2.24,1366,768,False,Unknown,0,500,2.3,Intel Core i5,Intel HD Graphics,737.0
+MSI,Gaming,15.6,8,Windows 10,2.3,1920,1080,False,Unknown,128,1000,2.6,Intel Core i7,Nvidia GTX,1169.0
+Lenovo,Notebook,13.3,16,Windows 10,1.4,1920,1080,False,IPS Panel,512,0,2.7,Intel Core i7,Intel HD Graphics,1499.0
+Lenovo,Notebook,15.6,6,Windows 10,2.2,1920,1080,False,Unknown,256,0,3.6,AMD,AMD,597.57
+Asus,Ultrabook,13.3,8,Windows 10,1.45,1920,1080,False,Unknown,256,0,2.5,Intel Core i7,Intel HD Graphics,1280.0
+Acer,Notebook,15.6,4,Linux,2.4,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,361.8
+Dell,2 in 1 Convertible,17.3,16,Windows 10,2.77,1920,1080,True,Unknown,512,0,2.7,Intel Core i7,Nvidia GeForce,1799.0
+HP,Notebook,14.0,4,Windows 7,1.54,1920,1080,False,Unknown,256,0,2.3,Intel Core i5,Intel HD Graphics,1099.99
+Asus,Gaming,15.6,16,Windows 10,2.5,1920,1080,False,IPS Panel,256,1000,2.8,Intel Core i7,Nvidia GTX,1600.0
+Dell,Notebook,14.0,4,Windows 10,1.6,1366,768,False,Unknown,0,500,2.5,Intel Core i5,Intel HD Graphics,875.0
+Asus,Gaming,15.6,16,Windows 10,2.34,1920,1080,False,IPS Panel,256,1000,2.6,Intel Core i7,Nvidia GTX,2325.0
+Lenovo,Notebook,15.6,8,No OS,2.3,1920,1080,False,IPS Panel,256,0,2.5,Intel Core i5,Intel HD Graphics,573.0
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,3200,1800,True,Unknown,256,0,1.2,Intel Core i5,Intel HD Graphics,1813.0
+Dell,Notebook,15.6,4,Linux,2.2,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,324.0
+HP,Notebook,15.6,4,Windows 10,1.86,1366,768,False,Unknown,0,500,2.5,AMD,AMD,399.0
+Lenovo,Notebook,15.6,6,Windows 10,2.4,1920,1080,False,Unknown,128,0,2.3,Intel Core i3,Nvidia GeForce,569.0
+Lenovo,Notebook,14.0,8,Windows 10,1.9,1920,1080,False,IPS Panel,256,0,2.3,Intel Core i5,Intel HD Graphics,1072.0
+Dell,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,443.99
+Asus,Notebook,15.6,4,Windows 10,2.0,1366,768,False,Unknown,0,1000,1.1,Intel Other,Intel HD Graphics,339.0
+Asus,Gaming,17.3,16,Windows 10,4.0,1920,1080,False,IPS Panel,128,1000,2.6,Intel Core i7,Nvidia GTX,1900.0
+Dell,Notebook,15.6,4,Windows 10,2.29,1366,768,False,Unknown,0,500,2.0,Intel Core i3,Intel HD Graphics,490.0
+Lenovo,Notebook,15.6,8,Windows 7,2.32,1920,1080,False,Unknown,0,1000,2.5,Intel Core i7,AMD,895.0
+MSI,Gaming,15.6,8,Windows 10,2.4,1920,1080,False,Unknown,128,1000,2.6,Intel Core i7,Nvidia GTX,1229.0
+Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,1920,1080,True,Unknown,128,0,2.3,Intel Core i5,Intel HD Graphics,833.01
+Asus,Ultrabook,13.3,8,Windows 10,1.2,1920,1080,False,IPS Panel,512,0,0.9,Intel Other,Intel HD Graphics,729.0
+Dell,Notebook,15.6,6,Windows 10,2.3,1366,768,False,Unknown,0,1000,2.4,Intel Core i3,Intel HD Graphics,459.0
+Acer,Notebook,15.6,4,Linux,2.4,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,289.0
+Dell,Notebook,15.6,2,Windows 10,2.2,1366,768,False,Unknown,0,500,1.6,Intel Other,Intel HD Graphics,379.0
+Lenovo,Notebook,15.6,8,Windows 10,2.6,1920,1080,False,IPS Panel,0,1000,2.6,Intel Core i7,Nvidia GTX,899.0
+HP,Notebook,15.6,6,Windows 10,2.04,1920,1080,False,Unknown,0,1000,2.9,AMD,AMD,549.99
+Dell,Notebook,15.6,8,Linux,2.3,1366,768,False,Unknown,0,1000,2.7,Intel Core i7,AMD,805.99
+HP,Netbook,11.6,2,Windows 10,1.17,1366,768,False,Unknown,32,0,1.6,Intel Other,Intel HD Graphics,209.0
+Asus,Notebook,15.6,4,Windows 10,2.2,1366,768,False,Unknown,0,500,2.5,Intel Core i7,Nvidia GeForce,720.32
+Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,1920,1080,True,IPS Panel,128,0,2.5,Intel Core i7,Intel HD Graphics,638.0
+Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,3200,1800,True,IPS Panel,512,0,2.5,Intel Core i7,Intel HD Graphics,1499.0
+Lenovo,Notebook,14.0,2,Windows 10,1.5,1366,768,False,Unknown,64,0,1.6,Intel Other,Intel HD Graphics,229.0
+HP,Notebook,15.6,6,Windows 10,2.19,1366,768,False,Unknown,0,1000,2.5,Intel Core i7,AMD,764.0
